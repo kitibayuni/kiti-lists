@@ -1,0 +1,120 @@
+C:\xampp\
+C:\xampp\mysql\
+C:\xampp\mysql\bin\
+C:\xampp\mysql\data\
+C:\xampp\mysql\backup\
+C:\xampp\mysql\logs\
+C:\xampp\htdocs\
+C:\xampp\htdocs\phpmyadmin\
+C:\xampp\htdocs\phpMyAdmin\
+C:\xampp\htdocs\pma\
+C:\xampp\phpMyAdmin\
+C:\wamp\
+C:\wamp\bin\
+C:\wamp\bin\mysql\
+C:\wamp\bin\mysql\bin\
+C:\wamp\bin\mysql\data\
+C:\wamp\bin\mariadb\
+C:\wamp\bin\mariadb\bin\
+C:\wamp\bin\mariadb\data\
+C:\wamp\www\
+C:\wamp64\
+C:\wamp64\bin\
+C:\wamp64\bin\mysql\
+C:\wamp64\bin\mysql\data\
+C:\wamp64\bin\mariadb\
+C:\wamp64\www\
+C:\Program Files\
+C:\Program Files\MariaDB\
+C:\Program Files\MariaDB\data\
+C:\Program Files\MariaDB 10.11\
+C:\Program Files\MariaDB 10.11\data\
+C:\Program Files\MariaDB 11.0\
+C:\Program Files\MariaDB 11.0\data\
+C:\Program Files\MariaDB 11.4\
+C:\Program Files\MariaDB 11.4\data\
+C:\Program Files\MySQL\
+C:\Program Files\MySQL\MySQL Server 5.7\
+C:\Program Files\MySQL\MySQL Server 5.7\data\
+C:\Program Files\MySQL\MySQL Server 8.0\
+C:\Program Files\MySQL\MySQL Server 8.0\data\
+C:\Program Files\MySQL\MySQL Server 9.0\
+C:\Program Files\MySQL\MySQL Server 9.0\data\
+C:\Program Files (x86)\
+C:\Program Files (x86)\MySQL\
+C:\Program Files (x86)\MariaDB\
+C:\ProgramData\
+C:\ProgramData\MySQL\
+C:\ProgramData\MySQL\MySQL Server 5.7\
+C:\ProgramData\MySQL\MySQL Server 5.7\data\
+C:\ProgramData\MySQL\MySQL Server 8.0\
+C:\ProgramData\MySQL\MySQL Server 8.0\data\
+C:\ProgramData\MySQL\MySQL Server 9.0\
+C:\ProgramData\MySQL\MySQL Server 9.0\data\
+C:\ProgramData\MariaDB\
+C:\ProgramData\MariaDB\data\
+C:\mysql\
+C:\mysql\bin\
+C:\mysql\data\
+C:\mariadb\
+C:\mariadb\bin\
+C:\mariadb\data\
+C:\Users\
+C:\Users\Administrator\
+C:\Users\Administrator\Documents\
+C:\Users\Administrator\Desktop\
+C:\Users\Public\
+C:\Users\Public\Documents\
+C:\backup\
+C:\backups\
+C:\Backup\
+C:\Backups\
+C:\Temp\
+C:\tmp\
+C:\Windows\Temp\
+C:\inetpub\
+C:\inetpub\wwwroot\
+C:\inetpub\logs\
+D:\xampp\
+D:\xampp\mysql\
+D:\xampp\mysql\bin\
+D:\xampp\mysql\data\
+D:\xampp\htdocs\
+D:\xampp\htdocs\phpmyadmin\
+D:\xampp\phpMyAdmin\
+D:\wamp\
+D:\wamp\bin\
+D:\wamp\bin\mysql\
+D:\wamp\bin\mysql\data\
+D:\wamp\bin\mariadb\
+D:\wamp\www\
+D:\wamp64\
+D:\wamp64\bin\
+D:\wamp64\bin\mysql\
+D:\wamp64\www\
+D:\backup\
+D:\backups\
+D:\mysql\
+D:\mysql\data\
+D:\mariadb\
+D:\mariadb\data\
+E:\xampp\
+E:\xampp\mysql\
+E:\xampp\mysql\data\
+E:\xampp\htdocs\
+E:\wamp\
+E:\wamp\bin\
+E:\wamp\bin\mysql\
+E:\wamp\www\
+E:\backup\
+E:\backups\
+E:\mysql\
+E:\mysql\data\
+E:\mariadb\
+E:\mariadb\data\
+F:\backup\
+F:\backups\
+F:\mysql\
+F:\mysql\data\
+F:\mariadb\
+F:\mariadb\data\

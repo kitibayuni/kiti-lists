@@ -1,0 +1,212 @@
+C:\xampp\mysql\bin\my.ini
+C:\xampp\mysql\bin\mysqld.exe
+C:\xampp\mysql\bin\mysql.exe
+C:\xampp\mysql\bin\mysqladmin.exe
+C:\xampp\mysql\bin\mysqldump.exe
+C:\xampp\mysql\bin\mysqlcheck.exe
+C:\xampp\mysql\data\my.ini
+C:\xampp\mysql\data\ibdata1
+C:\xampp\mysql\data\ib_logfile0
+C:\xampp\mysql\data\ib_logfile1
+C:\xampp\mysql\logs\error.log
+C:\xampp\mysql\logs\mysql.log
+C:\xampp\htdocs\backup.sql
+C:\xampp\htdocs\dump.sql
+C:\xampp\htdocs\database.sql
+C:\xampp\htdocs\db.sql
+C:\xampp\htdocs\config.php
+C:\xampp\htdocs\wp-config.php
+C:\xampp\htdocs\web.config
+C:\xampp\htdocs\phpmyadmin\config.inc.php
+C:\xampp\htdocs\phpMyAdmin\config.inc.php
+C:\xampp\htdocs\pma\config.inc.php
+C:\xampp\phpMyAdmin\config.inc.php
+C:\wamp\bin\mysql\my.ini
+C:\wamp\bin\mysql\bin\mysqld.exe
+C:\wamp\bin\mysql\bin\mysql.exe
+C:\wamp\bin\mysql\bin\mysqladmin.exe
+C:\wamp\bin\mysql\bin\mysqldump.exe
+C:\wamp\bin\mysql\data\my.ini
+C:\wamp\bin\mysql\data\ibdata1
+C:\wamp\bin\mysql\data\ib_logfile0
+C:\wamp\bin\mariadb\my.ini
+C:\wamp\bin\mariadb\bin\mariadbd.exe
+C:\wamp\bin\mariadb\bin\mariadb.exe
+C:\wamp\bin\mariadb\data\ibdata1
+C:\wamp\bin\mariadb\data\ib_logfile0
+C:\wamp\www\backup.sql
+C:\wamp\www\dump.sql
+C:\wamp\www\database.sql
+C:\wamp\www\config.php
+C:\wamp\www\wp-config.php
+C:\wamp\www\web.config
+C:\wamp64\bin\mysql\my.ini
+C:\wamp64\bin\mysql\data\ibdata1
+C:\wamp64\bin\mysql\data\ib_logfile0
+C:\wamp64\bin\mariadb\my.ini
+C:\wamp64\bin\mariadb\data\ibdata1
+C:\wamp64\www\backup.sql
+C:\wamp64\www\dump.sql
+C:\wamp64\www\database.sql
+C:\wamp64\www\config.php
+C:\Program Files\MariaDB\my.ini
+C:\Program Files\MariaDB\data\my.ini
+C:\Program Files\MariaDB\data\ibdata1
+C:\Program Files\MariaDB\data\ib_logfile0
+C:\Program Files\MariaDB 10.11\my.ini
+C:\Program Files\MariaDB 10.11\data\my.ini
+C:\Program Files\MariaDB 10.11\data\ibdata1
+C:\Program Files\MariaDB 11.0\my.ini
+C:\Program Files\MariaDB 11.0\data\my.ini
+C:\Program Files\MariaDB 11.0\data\ibdata1
+C:\Program Files\MariaDB 11.4\my.ini
+C:\Program Files\MariaDB 11.4\data\my.ini
+C:\Program Files\MariaDB 11.4\data\ibdata1
+C:\Program Files\MySQL\my.ini
+C:\Program Files\MySQL\MySQL Server 5.7\my.ini
+C:\Program Files\MySQL\MySQL Server 5.7\data\my.ini
+C:\Program Files\MySQL\MySQL Server 5.7\data\ibdata1
+C:\Program Files\MySQL\MySQL Server 5.7\data\ib_logfile0
+C:\Program Files\MySQL\MySQL Server 8.0\my.ini
+C:\Program Files\MySQL\MySQL Server 8.0\data\my.ini
+C:\Program Files\MySQL\MySQL Server 8.0\data\ibdata1
+C:\Program Files\MySQL\MySQL Server 8.0\data\ib_logfile0
+C:\Program Files\MySQL\MySQL Server 9.0\my.ini
+C:\Program Files\MySQL\MySQL Server 9.0\data\my.ini
+C:\Program Files\MySQL\MySQL Server 9.0\data\ibdata1
+C:\Program Files (x86)\MySQL\my.ini
+C:\Program Files (x86)\MariaDB\my.ini
+C:\ProgramData\MySQL\my.ini
+C:\ProgramData\MySQL\MySQL Server 5.7\my.ini
+C:\ProgramData\MySQL\MySQL Server 5.7\data\my.ini
+C:\ProgramData\MySQL\MySQL Server 5.7\data\ibdata1
+C:\ProgramData\MySQL\MySQL Server 8.0\my.ini
+C:\ProgramData\MySQL\MySQL Server 8.0\data\my.ini
+C:\ProgramData\MySQL\MySQL Server 8.0\data\ibdata1
+C:\ProgramData\MySQL\MySQL Server 9.0\my.ini
+C:\ProgramData\MySQL\MySQL Server 9.0\data\my.ini
+C:\ProgramData\MySQL\MySQL Server 9.0\data\ibdata1
+C:\ProgramData\MariaDB\my.ini
+C:\ProgramData\MariaDB\data\my.ini
+C:\ProgramData\MariaDB\data\ibdata1
+C:\mysql\my.ini
+C:\mysql\my.cnf
+C:\mysql\data\my.ini
+C:\mysql\data\ibdata1
+C:\mysql\data\ib_logfile0
+C:\mysql\bin\mysql.exe
+C:\mysql\bin\mysqld.exe
+C:\mariadb\my.ini
+C:\mariadb\my.cnf
+C:\mariadb\data\my.ini
+C:\mariadb\data\ibdata1
+C:\mariadb\data\ib_logfile0
+C:\mariadb\bin\mariadb.exe
+C:\mariadb\bin\mariadbd.exe
+C:\Users\Administrator\backup.sql
+C:\Users\Administrator\dump.sql
+C:\Users\Administrator\database.sql
+C:\Users\Administrator\my.ini
+C:\Users\Administrator\.my.cnf
+C:\Users\Administrator\Documents\backup.sql
+C:\Users\Administrator\Documents\database.sql
+C:\Users\Administrator\Documents\dump.sql
+C:\Users\Administrator\Desktop\backup.sql
+C:\Users\Administrator\Desktop\dump.sql
+C:\Users\Administrator\Desktop\database.sql
+C:\Users\Public\Documents\backup.sql
+C:\Users\Public\Documents\database.sql
+C:\backup\mysql.sql
+C:\backup\mariadb.sql
+C:\backup\backup.sql
+C:\backup\dump.sql
+C:\backup\database.sql
+C:\backups\mysql.sql
+C:\backups\mariadb.sql
+C:\backups\backup.sql
+C:\backups\dump.sql
+C:\backups\database.sql
+C:\Backup\backup.sql
+C:\Backup\database.sql
+C:\Backups\backup.sql
+C:\Backups\database.sql
+C:\Temp\backup.sql
+C:\Temp\dump.sql
+C:\Temp\database.sql
+C:\Temp\my.ini
+C:\tmp\backup.sql
+C:\tmp\dump.sql
+C:\tmp\database.sql
+C:\Windows\Temp\backup.sql
+C:\Windows\Temp\dump.sql
+C:\Windows\Temp\database.sql
+C:\inetpub\wwwroot\backup.sql
+C:\inetpub\wwwroot\dump.sql
+C:\inetpub\wwwroot\database.sql
+C:\inetpub\wwwroot\db.sql
+C:\inetpub\wwwroot\web.config
+C:\inetpub\wwwroot\config.php
+C:\inetpub\wwwroot\wp-config.php
+C:\inetpub\wwwroot\config.inc.php
+C:\inetpub\wwwroot\.env
+C:\inetpub\wwwroot\appsettings.json
+D:\xampp\mysql\bin\my.ini
+D:\xampp\mysql\bin\mysqld.exe
+D:\xampp\mysql\data\my.ini
+D:\xampp\mysql\data\ibdata1
+D:\xampp\mysql\data\ib_logfile0
+D:\xampp\htdocs\backup.sql
+D:\xampp\htdocs\dump.sql
+D:\xampp\htdocs\database.sql
+D:\xampp\htdocs\config.php
+D:\xampp\htdocs\phpmyadmin\config.inc.php
+D:\xampp\htdocs\phpMyAdmin\config.inc.php
+D:\xampp\phpMyAdmin\config.inc.php
+D:\wamp\bin\mysql\my.ini
+D:\wamp\bin\mysql\data\ibdata1
+D:\wamp\bin\mariadb\my.ini
+D:\wamp\www\backup.sql
+D:\wamp\www\dump.sql
+D:\wamp\www\config.php
+D:\wamp64\bin\mysql\my.ini
+D:\wamp64\bin\mysql\data\ibdata1
+D:\wamp64\www\backup.sql
+D:\wamp64\www\dump.sql
+D:\backup\backup.sql
+D:\backup\mysql.sql
+D:\backup\mariadb.sql
+D:\backup\database.sql
+D:\backups\backup.sql
+D:\backups\dump.sql
+D:\backups\database.sql
+D:\mysql\my.ini
+D:\mysql\data\my.ini
+D:\mysql\data\ibdata1
+D:\mariadb\my.ini
+D:\mariadb\data\my.ini
+D:\mariadb\data\ibdata1
+E:\xampp\mysql\bin\my.ini
+E:\xampp\mysql\data\ibdata1
+E:\xampp\htdocs\backup.sql
+E:\xampp\htdocs\dump.sql
+E:\wamp\bin\mysql\my.ini
+E:\wamp\bin\mysql\data\ibdata1
+E:\wamp\www\backup.sql
+E:\backup\backup.sql
+E:\backup\mysql.sql
+E:\backup\database.sql
+E:\backups\backup.sql
+E:\backups\database.sql
+E:\mysql\my.ini
+E:\mysql\data\ibdata1
+E:\mariadb\my.ini
+E:\mariadb\data\ibdata1
+F:\backup\backup.sql
+F:\backup\mysql.sql
+F:\backup\database.sql
+F:\backups\backup.sql
+F:\backups\database.sql
+F:\mysql\my.ini
+F:\mysql\data\ibdata1
+F:\mariadb\my.ini
+F:\mariadb\data\ibdata1
