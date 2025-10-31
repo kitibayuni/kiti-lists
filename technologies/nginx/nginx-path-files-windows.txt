@@ -1,0 +1,121 @@
+C:\nginx\nginx.exe
+C:\nginx\conf\nginx.conf
+C:\nginx\conf\nginx.conf.bak
+C:\nginx\conf\nginx.conf.default
+C:\nginx\conf\mime.types
+C:\nginx\conf\fastcgi.conf
+C:\nginx\conf\fastcgi_params
+C:\nginx\conf\uwsgi_params
+C:\nginx\conf\scgi_params
+C:\nginx\conf\koi-utf
+C:\nginx\conf\koi-win
+C:\nginx\conf\win-utf
+C:\nginx\html\index.html
+C:\nginx\html\index.htm
+C:\nginx\html\50x.html
+C:\nginx\html\404.html
+C:\nginx\html\index.php
+C:\nginx\html\phpinfo.php
+C:\nginx\html\info.php
+C:\nginx\html\test.php
+C:\nginx\html\favicon.ico
+C:\nginx\html\robots.txt
+C:\nginx\html\web.config
+C:\nginx\logs\access.log
+C:\nginx\logs\error.log
+C:\nginx\logs\nginx.pid
+C:\nginx\ssl\nginx.crt
+C:\nginx\ssl\nginx.key
+C:\nginx\ssl\server.crt
+C:\nginx\ssl\server.key
+C:\nginx\ssl\certificate.crt
+C:\nginx\ssl\certificate.key
+C:\nginx\certs\server.crt
+C:\nginx\certs\server.key
+C:\Program Files\nginx\nginx.exe
+C:\Program Files\nginx\conf\nginx.conf
+C:\Program Files\nginx\conf\mime.types
+C:\Program Files\nginx\html\index.html
+C:\Program Files\nginx\html\50x.html
+C:\Program Files\nginx\logs\access.log
+C:\Program Files\nginx\logs\error.log
+C:\Program Files (x86)\nginx\nginx.exe
+C:\Program Files (x86)\nginx\conf\nginx.conf
+C:\Program Files (x86)\nginx\html\index.html
+C:\Program Files (x86)\nginx\logs\access.log
+C:\Program Files (x86)\nginx\logs\error.log
+C:\nginx-1.24.0\nginx.exe
+C:\nginx-1.24.0\conf\nginx.conf
+C:\nginx-1.25.0\nginx.exe
+C:\nginx-1.25.0\conf\nginx.conf
+C:\nginx-1.26.0\nginx.exe
+C:\nginx-1.26.0\conf\nginx.conf
+C:\server\nginx\nginx.exe
+C:\server\nginx\conf\nginx.conf
+C:\server\nginx\html\index.html
+C:\server\nginx\logs\access.log
+C:\server\nginx\logs\error.log
+C:\webserver\nginx.exe
+C:\webserver\conf\nginx.conf
+C:\www\html\index.html
+C:\www\html\index.htm
+C:\www\html\index.php
+C:\www\html\config.php
+C:\www\html\.env
+C:\inetpub\wwwroot\index.html
+C:\inetpub\wwwroot\index.htm
+C:\inetpub\wwwroot\index.php
+C:\inetpub\wwwroot\web.config
+C:\inetpub\wwwroot\config.php
+C:\inetpub\wwwroot\.env
+C:\inetpub\logs\access.log
+C:\inetpub\logs\error.log
+C:\Users\Administrator\nginx.conf
+C:\Users\Administrator\nginx.conf.bak
+C:\Users\Administrator\Documents\nginx.conf
+C:\Users\Administrator\Documents\backup.zip
+C:\Users\Administrator\Desktop\nginx.conf
+C:\Users\Administrator\Desktop\backup.zip
+C:\ProgramData\nginx\nginx.conf
+C:\ProgramData\nginx\logs\access.log
+C:\Windows\System32\drivers\etc\hosts
+C:\Temp\nginx.conf
+C:\Temp\backup.zip
+C:\tmp\nginx.conf
+C:\tmp\backup.zip
+C:\backup\nginx.conf
+C:\backup\nginx_backup.zip
+C:\backup\site.zip
+C:\backups\nginx.conf
+C:\backups\nginx_backup.zip
+C:\backups\config_backup.zip
+C:\ssl\nginx.crt
+C:\ssl\nginx.key
+C:\certs\server.crt
+C:\certs\server.key
+D:\nginx\nginx.exe
+D:\nginx\conf\nginx.conf
+D:\nginx\conf\mime.types
+D:\nginx\html\index.html
+D:\nginx\html\index.php
+D:\nginx\logs\access.log
+D:\nginx\logs\error.log
+D:\server\nginx\nginx.exe
+D:\server\nginx\conf\nginx.conf
+D:\www\html\index.html
+D:\www\html\index.php
+D:\backup\nginx.conf
+D:\backup\nginx_backup.zip
+D:\backups\nginx.conf
+E:\nginx\nginx.exe
+E:\nginx\conf\nginx.conf
+E:\nginx\html\index.html
+E:\nginx\logs\access.log
+E:\www\index.html
+E:\server\nginx.exe
+E:\backup\nginx.conf
+E:\backup\backup.zip
+F:\nginx\nginx.exe
+F:\nginx\conf\nginx.conf
+F:\www\index.html
+F:\backup\nginx.conf

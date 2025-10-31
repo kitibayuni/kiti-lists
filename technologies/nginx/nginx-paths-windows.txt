@@ -1,0 +1,64 @@
+C:\nginx\
+C:\nginx\conf\
+C:\nginx\html\
+C:\nginx\logs\
+C:\nginx\temp\
+C:\nginx\ssl\
+C:\nginx\certs\
+C:\nginx\sites\
+C:\nginx\modules\
+C:\Program Files\
+C:\Program Files\nginx\
+C:\Program Files\nginx\conf\
+C:\Program Files\nginx\html\
+C:\Program Files\nginx\logs\
+C:\Program Files (x86)\
+C:\Program Files (x86)\nginx\
+C:\Program Files (x86)\nginx\conf\
+C:\nginx-1.24.0\
+C:\nginx-1.25.0\
+C:\nginx-1.26.0\
+C:\nginx-1.27.0\
+C:\server\nginx\
+C:\server\nginx\conf\
+C:\server\nginx\html\
+C:\server\nginx\logs\
+C:\webserver\
+C:\webserver\nginx\
+C:\www\
+C:\www\html\
+C:\inetpub\
+C:\inetpub\wwwroot\
+C:\inetpub\logs\
+C:\Users\Administrator\
+C:\Users\Administrator\nginx\
+C:\Users\Administrator\Documents\
+C:\Users\Administrator\Desktop\
+C:\ProgramData\
+C:\ProgramData\nginx\
+C:\Windows\System32\drivers\etc\
+C:\Temp\
+C:\tmp\
+C:\backup\
+C:\backups\
+C:\ssl\
+C:\certs\
+D:\nginx\
+D:\nginx\conf\
+D:\nginx\html\
+D:\nginx\logs\
+D:\server\
+D:\server\nginx\
+D:\www\
+D:\www\html\
+D:\backup\
+D:\backups\
+E:\nginx\
+E:\nginx\conf\
+E:\nginx\html\
+E:\www\
+E:\server\
+E:\backup\
+F:\nginx\
+F:\www\
+F:\backup\
