@@ -1,0 +1,98 @@
+C:\Program Files\Apache Software Foundation\
+C:\Program Files\Apache Software Foundation\Apache2.2\
+C:\Program Files\Apache Software Foundation\Apache2.4\
+C:\Program Files\Apache Software Foundation\Apache24\
+C:\Program Files\Apache Software Foundation\Apache2.2\conf\
+C:\Program Files\Apache Software Foundation\Apache2.4\conf\
+C:\Program Files\Apache Software Foundation\Apache24\conf\
+C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\
+C:\Program Files\Apache Software Foundation\Apache2.4\htdocs\
+C:\Program Files\Apache Software Foundation\Apache24\htdocs\
+C:\Program Files\Apache Software Foundation\Apache2.2\logs\
+C:\Program Files\Apache Software Foundation\Apache2.4\logs\
+C:\Program Files\Apache Software Foundation\Apache24\logs\
+C:\Program Files (x86)\Apache Software Foundation\
+C:\Program Files (x86)\Apache Software Foundation\Apache2.4\
+C:\Program Files (x86)\Apache Software Foundation\Apache24\
+C:\Apache24\
+C:\Apache24\conf\
+C:\Apache24\htdocs\
+C:\Apache24\logs\
+C:\Apache24\bin\
+C:\Apache24\modules\
+C:\Apache2.4\
+C:\Apache2.4\conf\
+C:\Apache2.4\htdocs\
+C:\Apache2.4\logs\
+C:\Apache\
+C:\Apache\conf\
+C:\Apache\htdocs\
+C:\Apache\logs\
+C:\xampp\
+C:\xampp\apache\
+C:\xampp\apache\conf\
+C:\xampp\apache\logs\
+C:\xampp\htdocs\
+C:\xampp\htdocs\admin\
+C:\xampp\htdocs\api\
+C:\xampp\htdocs\backup\
+C:\xampp\htdocs\uploads\
+C:\xampp\htdocs\assets\
+C:\xampp\htdocs\App_Data\
+C:\wamp\
+C:\wamp\bin\
+C:\wamp\bin\apache\
+C:\wamp\bin\apache\apache2.4.54\
+C:\wamp\bin\apache\apache2.4.54\conf\
+C:\wamp\www\
+C:\wamp64\
+C:\wamp64\bin\
+C:\wamp64\bin\apache\
+C:\wamp64\www\
+C:\inetpub\
+C:\inetpub\wwwroot\
+C:\inetpub\wwwroot\admin\
+C:\inetpub\wwwroot\api\
+C:\inetpub\wwwroot\App_Data\
+C:\www\
+C:\www\html\
+C:\www\html\admin\
+C:\www\html\api\
+C:\webroot\
+C:\htdocs\
+C:\nginx\
+C:\nginx\html\
+C:\temp\
+C:\tmp\
+C:\Windows\temp\
+C:\Windows\tmp\
+C:\Users\Administrator\
+C:\Users\Administrator\Documents\
+C:\Users\Administrator\Desktop\
+C:\Users\Public\
+C:\staging\
+C:\dev\
+C:\development\
+C:\test\
+C:\production\
+C:\app\
+C:\api\
+C:\admin\
+C:\uploads\
+C:\files\
+C:\assets\
+C:\logs\
+C:\backup\
+C:\backups\
+D:\www\
+D:\htdocs\
+D:\inetpub\
+D:\staging\
+D:\dev\
+D:\production\
+E:\www\
+E:\htdocs\
+E:\staging\
+C:\
+D:\
+E:\
