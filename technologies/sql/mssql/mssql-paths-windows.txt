@@ -1,0 +1,126 @@
+C:\Program Files\Microsoft SQL Server\
+C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\
+C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\
+C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER\
+C:\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\
+C:\Program Files\Microsoft SQL Server\MSSQL11.MSSQLSERVER\
+C:\Program Files\Microsoft SQL Server\MSSQL10.MSSQLSERVER\
+C:\Program Files\Microsoft SQL Server\MSSQL10_50.MSSQLSERVER\
+C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\
+C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\
+C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\
+C:\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\
+C:\Program Files\Microsoft SQL Server\MSSQL11.MSSQLSERVER\MSSQL\
+C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\
+C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\DATA\
+C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\DATA\
+C:\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\DATA\
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\
+C:\Program Files\Microsoft SQL Server\MSSQL11.MSSQLSERVER\MSSQL\DATA\
+C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\Log\
+C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\Log\
+C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\Log\
+C:\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Log\
+C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\Backup\
+C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\Backup\
+C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\Backup\
+C:\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Backup\
+C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\Binn\
+C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\Binn\
+C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\Binn\
+C:\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Binn\
+C:\Program Files\Microsoft SQL Server\MSSQL15.SQLEXPRESS\
+C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\
+C:\Program Files\Microsoft SQL Server\MSSQL13.SQLEXPRESS\
+C:\Program Files\Microsoft SQL Server\MSSQL15.SQLEXPRESS\MSSQL\
+C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\
+C:\Program Files\Microsoft SQL Server\MSSQL15.SQLEXPRESS\MSSQL\DATA\
+C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\DATA\
+C:\Program Files\Microsoft SQL Server\MSSQL15.SQLEXPRESS\MSSQL\Log\
+C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Log\
+C:\Program Files\Microsoft SQL Server\MSSQL15.SQLEXPRESS\MSSQL\Backup\
+C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Backup\
+C:\Program Files (x86)\Microsoft SQL Server\
+C:\Program Files (x86)\Microsoft SQL Server\MSSQL14.SQLEXPRESS\
+C:\Program Files (x86)\Microsoft SQL Server\MSSQL13.SQLEXPRESS\
+C:\Program Files (x86)\Microsoft SQL Server\MSSQL12.SQLEXPRESS\
+C:\MSSQL\
+C:\MSSQL\DATA\
+C:\MSSQL\Log\
+C:\MSSQL\Backup\
+C:\SQLServer\
+C:\SQLServer\DATA\
+C:\SQLServer\Log\
+C:\SQLServer\Backup\
+C:\SQL\
+C:\SQL\DATA\
+C:\SQL\Backup\
+C:\Database\
+C:\Databases\
+C:\Data\
+C:\backup\
+C:\backup\mssql\
+C:\backup\sql\
+C:\backups\
+C:\backups\mssql\
+D:\backup\
+D:\backups\
+D:\MSSQL\
+D:\SQL\
+D:\Database\
+E:\backup\
+E:\backups\
+E:\MSSQL\
+C:\inetpub\
+C:\inetpub\wwwroot\
+C:\inetpub\wwwroot\admin\
+C:\inetpub\wwwroot\api\
+C:\inetpub\wwwroot\App_Data\
+C:\xampp\
+C:\xampp\htdocs\
+C:\xampp\htdocs\admin\
+C:\xampp\htdocs\api\
+C:\xampp\htdocs\backup\
+C:\xampp\htdocs\App_Data\
+C:\wamp\
+C:\wamp\www\
+C:\wamp64\
+C:\wamp64\www\
+C:\www\
+C:\www\html\
+C:\webroot\
+C:\Apache24\
+C:\Apache24\htdocs\
+C:\nginx\
+C:\nginx\html\
+C:\temp\
+C:\tmp\
+C:\Windows\temp\
+C:\Windows\tmp\
+C:\Users\Administrator\
+C:\Users\Administrator\Documents\
+C:\Users\Administrator\Desktop\
+C:\Users\sqlserver\
+C:\Users\mssql\
+C:\Users\Public\
+C:\staging\
+C:\dev\
+C:\development\
+C:\test\
+C:\production\
+C:\app\
+C:\api\
+C:\admin\
+C:\uploads\
+C:\files\
+C:\logs\
+D:\www\
+D:\htdocs\
+D:\inetpub\
+E:\www\
+E:\htdocs\
+C:\
+D:\
+E:\

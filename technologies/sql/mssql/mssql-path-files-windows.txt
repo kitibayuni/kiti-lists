@@ -1,0 +1,312 @@
+C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\master.mdf
+C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\DATA\master.mdf
+C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\DATA\master.mdf
+C:\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\DATA\master.mdf
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\master.mdf
+C:\Program Files\Microsoft SQL Server\MSSQL11.MSSQLSERVER\MSSQL\DATA\master.mdf
+C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\master.ldf
+C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\DATA\master.ldf
+C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\DATA\master.ldf
+C:\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\DATA\master.ldf
+C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\model.mdf
+C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\DATA\model.mdf
+C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\DATA\model.mdf
+C:\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\DATA\model.mdf
+C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\msdb.mdf
+C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\DATA\msdb.mdf
+C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\DATA\msdb.mdf
+C:\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\DATA\msdb.mdf
+C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\tempdb.mdf
+C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\DATA\tempdb.mdf
+C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\DATA\tempdb.mdf
+C:\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\DATA\tempdb.mdf
+C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\database.mdf
+C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\DATA\database.mdf
+C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\DATA\database.mdf
+C:\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\DATA\database.mdf
+C:\Program Files\Microsoft SQL Server\MSSQL15.SQLEXPRESS\MSSQL\DATA\master.mdf
+C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\DATA\master.mdf
+C:\Program Files\Microsoft SQL Server\MSSQL13.SQLEXPRESS\MSSQL\DATA\master.mdf
+C:\Program Files\Microsoft SQL Server\MSSQL15.SQLEXPRESS\MSSQL\DATA\model.mdf
+C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\DATA\model.mdf
+C:\Program Files\Microsoft SQL Server\MSSQL15.SQLEXPRESS\MSSQL\DATA\msdb.mdf
+C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\DATA\msdb.mdf
+C:\Program Files\Microsoft SQL Server\MSSQL15.SQLEXPRESS\MSSQL\DATA\tempdb.mdf
+C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\DATA\tempdb.mdf
+C:\MSSQL\DATA\master.mdf
+C:\MSSQL\DATA\model.mdf
+C:\MSSQL\DATA\msdb.mdf
+C:\MSSQL\DATA\tempdb.mdf
+C:\MSSQL\DATA\database.mdf
+D:\MSSQL\DATA\master.mdf
+D:\MSSQL\DATA\database.mdf
+E:\MSSQL\DATA\database.mdf
+C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\Log\ERRORLOG
+C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\Log\ERRORLOG
+C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\Log\ERRORLOG
+C:\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Log\ERRORLOG
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\Log\ERRORLOG
+C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\Log\ERRORLOG.1
+C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\Log\ERRORLOG.1
+C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\Log\ERRORLOG.1
+C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\Log\SQLAGENT.OUT
+C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\Log\SQLAGENT.OUT
+C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\Log\SQLAGENT.OUT
+C:\Program Files\Microsoft SQL Server\MSSQL15.SQLEXPRESS\MSSQL\Log\ERRORLOG
+C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Log\ERRORLOG
+C:\Program Files\Microsoft SQL Server\MSSQL15.SQLEXPRESS\MSSQL\Log\ERRORLOG.1
+C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\Backup\backup.bak
+C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\Backup\backup.bak
+C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\Backup\backup.bak
+C:\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Backup\backup.bak
+C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\Backup\database.bak
+C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\Backup\database.bak
+C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\Backup\database.bak
+C:\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Backup\database.bak
+C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\Backup\full_backup.bak
+C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\Backup\full_backup.bak
+C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\Backup\full_backup.bak
+C:\Program Files\Microsoft SQL Server\MSSQL15.SQLEXPRESS\MSSQL\Backup\backup.bak
+C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Backup\backup.bak
+C:\Program Files\Microsoft SQL Server\MSSQL15.SQLEXPRESS\MSSQL\Backup\database.bak
+C:\MSSQL\Backup\backup.bak
+C:\MSSQL\Backup\database.bak
+C:\MSSQL\Backup\full_backup.bak
+C:\SQL\Backup\backup.bak
+C:\SQL\Backup\database.bak
+C:\Database\backup.bak
+D:\MSSQL\Backup\backup.bak
+D:\SQL\Backup\backup.bak
+E:\backup\backup.bak
+C:\backup\backup.bak
+C:\backup\database.bak
+C:\backup\mssql\backup.bak
+C:\backup\sql\backup.bak
+C:\backups\backup.bak
+C:\backups\database.bak
+C:\backups\mssql\backup.bak
+D:\backup\backup.bak
+D:\backup\database.bak
+D:\backups\backup.bak
+E:\backup\backup.bak
+E:\backups\backup.bak
+C:\inetpub\wwwroot\.env
+C:\inetpub\wwwroot\admin\.env
+C:\inetpub\wwwroot\api\.env
+C:\inetpub\wwwroot\App_Data\.env
+C:\xampp\htdocs\.env
+C:\xampp\htdocs\admin\.env
+C:\xampp\htdocs\api\.env
+C:\xampp\htdocs\backup\.env
+C:\xampp\htdocs\App_Data\.env
+C:\wamp\www\.env
+C:\wamp64\www\.env
+C:\www\html\.env
+C:\www\html\admin\.env
+C:\www\html\api\.env
+C:\nginx\html\.env
+C:\nginx\html\admin\.env
+C:\Apache24\htdocs\.env
+C:\temp\.env
+C:\tmp\.env
+C:\Windows\temp\.env
+C:\Users\Administrator\.env
+C:\Users\sqlserver\.env
+C:\Users\mssql\.env
+C:\Users\Public\.env
+C:\staging\.env
+C:\dev\.env
+C:\production\.env
+C:\app\.env
+C:\api\.env
+C:\admin\.env
+C:\.env
+D:\.env
+E:\.env
+C:\inetpub\wwwroot\backup.bak
+C:\inetpub\wwwroot\database.bak
+C:\inetpub\wwwroot\backup.sql
+C:\inetpub\wwwroot\database.sql
+C:\inetpub\wwwroot\admin\backup.bak
+C:\inetpub\wwwroot\admin\backup.sql
+C:\inetpub\wwwroot\api\backup.bak
+C:\inetpub\wwwroot\api\backup.sql
+C:\inetpub\wwwroot\App_Data\backup.bak
+C:\inetpub\wwwroot\App_Data\database.bak
+C:\xampp\htdocs\backup.bak
+C:\xampp\htdocs\backup.sql
+C:\xampp\htdocs\database.bak
+C:\xampp\htdocs\database.sql
+C:\xampp\htdocs\admin\backup.bak
+C:\xampp\htdocs\admin\backup.sql
+C:\xampp\htdocs\api\backup.bak
+C:\xampp\htdocs\api\backup.sql
+C:\xampp\htdocs\backup\backup.bak
+C:\xampp\htdocs\backup\database.bak
+C:\xampp\htdocs\App_Data\backup.bak
+C:\xampp\htdocs\App_Data\database.bak
+C:\wamp\www\backup.bak
+C:\wamp\www\backup.sql
+C:\wamp\www\database.bak
+C:\wamp64\www\backup.bak
+C:\wamp64\www\backup.sql
+C:\www\html\backup.bak
+C:\www\html\backup.sql
+C:\www\html\database.bak
+C:\www\html\admin\backup.bak
+C:\www\html\api\backup.bak
+C:\nginx\html\backup.bak
+C:\nginx\html\backup.sql
+C:\nginx\html\admin\backup.bak
+C:\Apache24\htdocs\backup.bak
+C:\Apache24\htdocs\backup.sql
+C:\temp\backup.bak
+C:\temp\backup.sql
+C:\temp\database.bak
+C:\temp\database.sql
+C:\tmp\backup.bak
+C:\tmp\backup.sql
+C:\Windows\temp\backup.bak
+C:\Windows\temp\backup.sql
+C:\Users\Administrator\backup.bak
+C:\Users\Administrator\backup.sql
+C:\Users\Administrator\Documents\backup.bak
+C:\Users\Administrator\Desktop\backup.bak
+C:\Users\sqlserver\backup.bak
+C:\Users\mssql\backup.bak
+C:\Users\Public\backup.bak
+C:\staging\backup.bak
+C:\staging\backup.sql
+C:\dev\backup.bak
+C:\dev\backup.sql
+C:\production\backup.bak
+C:\production\backup.sql
+C:\app\backup.bak
+C:\app\backup.sql
+C:\api\backup.bak
+C:\api\backup.sql
+C:\admin\backup.bak
+C:\admin\backup.sql
+C:\uploads\backup.bak
+C:\uploads\backup.sql
+C:\files\backup.bak
+C:\files\backup.sql
+C:\database\backup.bak
+C:\backup.bak
+C:\backup.sql
+C:\database.bak
+C:\database.sql
+D:\backup.bak
+D:\backup.sql
+D:\database.bak
+E:\backup.bak
+E:\backup.sql
+C:\inetpub\wwwroot\Web.config
+C:\inetpub\wwwroot\web.config
+C:\inetpub\wwwroot\Web.config.bak
+C:\inetpub\wwwroot\connectionStrings.config
+C:\inetpub\wwwroot\admin\Web.config
+C:\inetpub\wwwroot\api\Web.config
+C:\inetpub\wwwroot\App_Data\Web.config
+C:\xampp\htdocs\Web.config
+C:\xampp\htdocs\web.config
+C:\wamp\www\Web.config
+C:\wamp64\www\Web.config
+C:\www\html\Web.config
+C:\nginx\html\Web.config
+C:\Apache24\htdocs\Web.config
+C:\temp\Web.config
+C:\tmp\Web.config
+C:\staging\Web.config
+C:\dev\Web.config
+C:\production\Web.config
+C:\app\Web.config
+C:\api\Web.config
+C:\admin\Web.config
+C:\Web.config
+D:\Web.config
+C:\inetpub\wwwroot\appsettings.json
+C:\inetpub\wwwroot\appsettings.json.bak
+C:\inetpub\wwwroot\appsettings.Production.json
+C:\inetpub\wwwroot\appsettings.Development.json
+C:\inetpub\wwwroot\appsettings.Staging.json
+C:\inetpub\wwwroot\admin\appsettings.json
+C:\inetpub\wwwroot\api\appsettings.json
+C:\xampp\htdocs\appsettings.json
+C:\wamp\www\appsettings.json
+C:\wamp64\www\appsettings.json
+C:\www\html\appsettings.json
+C:\nginx\html\appsettings.json
+C:\Apache24\htdocs\appsettings.json
+C:\temp\appsettings.json
+C:\tmp\appsettings.json
+C:\staging\appsettings.json
+C:\staging\appsettings.Staging.json
+C:\dev\appsettings.json
+C:\dev\appsettings.Development.json
+C:\production\appsettings.json
+C:\production\appsettings.Production.json
+C:\app\appsettings.json
+C:\api\appsettings.json
+C:\admin\appsettings.json
+C:\appsettings.json
+D:\appsettings.json
+C:\inetpub\wwwroot\config.php
+C:\inetpub\wwwroot\database.php
+C:\inetpub\wwwroot\admin\config.php
+C:\inetpub\wwwroot\api\config.php
+C:\xampp\htdocs\config.php
+C:\xampp\htdocs\config.php.bak
+C:\xampp\htdocs\database.php
+C:\xampp\htdocs\admin\config.php
+C:\xampp\htdocs\api\config.php
+C:\wamp\www\config.php
+C:\wamp\www\database.php
+C:\wamp64\www\config.php
+C:\www\html\config.php
+C:\www\html\database.php
+C:\www\html\admin\config.php
+C:\www\html\api\config.php
+C:\nginx\html\config.php
+C:\Apache24\htdocs\config.php
+C:\temp\config.php
+C:\tmp\config.php
+C:\staging\config.php
+C:\dev\config.php
+C:\production\config.php
+C:\app\config.php
+C:\api\config.php
+C:\admin\config.php
+C:\config.php
+C:\database.php
+D:\config.php
+C:\inetpub\wwwroot\wp-config.php
+C:\inetpub\wwwroot\wp-config.php.bak
+C:\xampp\htdocs\wp-config.php
+C:\xampp\htdocs\wp-config.php.bak
+C:\wamp\www\wp-config.php
+C:\wamp64\www\wp-config.php
+C:\www\html\wp-config.php
+C:\nginx\html\wp-config.php
+C:\Apache24\htdocs\wp-config.php
+C:\temp\wp-config.php
+C:\staging\wp-config.php
+C:\dev\wp-config.php
+C:\admin\wp-config.php
+C:\wp-config.php
+D:\wp-config.php
+C:\inetpub\wwwroot\docker-compose.yml
+C:\inetpub\wwwroot\Dockerfile
+C:\xampp\htdocs\docker-compose.yml
+C:\xampp\htdocs\Dockerfile
+C:\wamp\www\docker-compose.yml
+C:\www\html\docker-compose.yml
+C:\staging\docker-compose.yml
+C:\dev\docker-compose.yml
+C:\docker-compose.yml
+C:\Dockerfile
+D:\docker-compose.yml
+C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\Binn\sqlservr.exe
+C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\Binn\sqlservr.exe
+C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\Binn\sqlservr.exe
+C:\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Binn\sqlservr.exe
