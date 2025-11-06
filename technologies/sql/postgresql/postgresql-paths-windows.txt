@@ -1,0 +1,121 @@
+C:\Program Files\PostgreSQL\
+C:\Program Files\PostgreSQL\9.6\
+C:\Program Files\PostgreSQL\10\
+C:\Program Files\PostgreSQL\11\
+C:\Program Files\PostgreSQL\12\
+C:\Program Files\PostgreSQL\13\
+C:\Program Files\PostgreSQL\14\
+C:\Program Files\PostgreSQL\15\
+C:\Program Files\PostgreSQL\16\
+C:\Program Files\PostgreSQL\9.6\data\
+C:\Program Files\PostgreSQL\10\data\
+C:\Program Files\PostgreSQL\11\data\
+C:\Program Files\PostgreSQL\12\data\
+C:\Program Files\PostgreSQL\13\data\
+C:\Program Files\PostgreSQL\14\data\
+C:\Program Files\PostgreSQL\15\data\
+C:\Program Files\PostgreSQL\16\data\
+C:\Program Files (x86)\PostgreSQL\
+C:\Program Files (x86)\PostgreSQL\9.6\
+C:\Program Files (x86)\PostgreSQL\10\
+C:\Program Files (x86)\PostgreSQL\11\
+C:\Program Files (x86)\PostgreSQL\12\
+C:\Program Files (x86)\PostgreSQL\13\
+C:\Program Files (x86)\PostgreSQL\14\
+C:\Program Files (x86)\PostgreSQL\15\
+C:\Program Files (x86)\PostgreSQL\16\
+C:\ProgramData\PostgreSQL\
+C:\ProgramData\PostgreSQL\data\
+C:\ProgramData\PostgreSQL\log\
+C:\PostgreSQL\
+C:\PostgreSQL\data\
+C:\PostgreSQL\log\
+C:\pgsql\
+C:\pgsql\data\
+C:\xampp\
+C:\xampp\postgresql\
+C:\xampp\htdocs\
+C:\xampp\htdocs\admin\
+C:\xampp\htdocs\api\
+C:\xampp\htdocs\backup\
+C:\xampp\htdocs\uploads\
+C:\xampp\htdocs\files\
+C:\wamp\
+C:\wamp\bin\postgresql\
+C:\wamp\www\
+C:\wamp64\
+C:\wamp64\bin\postgresql\
+C:\wamp64\www\
+C:\inetpub\
+C:\inetpub\wwwroot\
+C:\inetpub\wwwroot\admin\
+C:\inetpub\wwwroot\api\
+C:\inetpub\wwwroot\backup\
+C:\www\
+C:\www\html\
+C:\www\html\admin\
+C:\www\html\api\
+C:\webroot\
+C:\Apache24\
+C:\Apache24\htdocs\
+C:\nginx\
+C:\nginx\html\
+C:\nginx\html\admin\
+C:\nginx\html\api\
+C:\backup\
+C:\backup\postgresql\
+C:\backups\
+C:\backups\postgresql\
+D:\backup\
+D:\backups\
+D:\postgresql\
+D:\pgsql\
+D:\data\
+E:\backup\
+E:\backups\
+E:\postgresql\
+C:\temp\
+C:\tmp\
+C:\Windows\temp\
+C:\Windows\tmp\
+C:\Users\Administrator\
+C:\Users\Administrator\Documents\
+C:\Users\Administrator\Desktop\
+C:\Users\Administrator\Downloads\
+C:\Users\postgres\
+C:\Users\postgres\Documents\
+C:\Users\Public\
+C:\Users\Public\Documents\
+C:\Users\user\
+C:\Users\www\
+C:\Users\nginx\
+C:\ProgramData\
+C:\ProgramData\backup\
+C:\pgAdmin4\
+C:\pgAdmin 4\
+C:\Program Files\pgAdmin 4\
+C:\Program Files (x86)\pgAdmin 4\
+C:\staging\
+C:\dev\
+C:\development\
+C:\test\
+C:\production\
+C:\app\
+C:\api\
+C:\admin\
+C:\uploads\
+C:\files\
+C:\logs\
+C:\database\
+D:\www\
+D:\htdocs\
+D:\inetpub\
+D:\staging\
+D:\dev\
+D:\production\
+E:\www\
+E:\htdocs\
+E:\staging\
+C:\
+D:\
+E:\

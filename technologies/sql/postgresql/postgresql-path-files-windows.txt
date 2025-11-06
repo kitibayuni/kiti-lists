@@ -1,0 +1,234 @@
+C:\Program Files\PostgreSQL\9.6\data\postgresql.conf
+C:\Program Files\PostgreSQL\10\data\postgresql.conf
+C:\Program Files\PostgreSQL\11\data\postgresql.conf
+C:\Program Files\PostgreSQL\12\data\postgresql.conf
+C:\Program Files\PostgreSQL\13\data\postgresql.conf
+C:\Program Files\PostgreSQL\14\data\postgresql.conf
+C:\Program Files\PostgreSQL\15\data\postgresql.conf
+C:\Program Files\PostgreSQL\16\data\postgresql.conf
+C:\Program Files (x86)\PostgreSQL\9.6\data\postgresql.conf
+C:\Program Files (x86)\PostgreSQL\10\data\postgresql.conf
+C:\Program Files (x86)\PostgreSQL\11\data\postgresql.conf
+C:\Program Files (x86)\PostgreSQL\12\data\postgresql.conf
+C:\ProgramData\PostgreSQL\data\postgresql.conf
+C:\PostgreSQL\data\postgresql.conf
+C:\pgsql\data\postgresql.conf
+C:\xampp\postgresql\data\postgresql.conf
+C:\Program Files\PostgreSQL\9.6\data\postgresql.conf.bak
+C:\Program Files\PostgreSQL\10\data\postgresql.conf.bak
+C:\Program Files\PostgreSQL\11\data\postgresql.conf.bak
+C:\Program Files\PostgreSQL\12\data\postgresql.conf.bak
+C:\Program Files\PostgreSQL\13\data\postgresql.conf.bak
+C:\Program Files\PostgreSQL\14\data\postgresql.conf.bak
+C:\Program Files\PostgreSQL\15\data\postgresql.conf.bak
+C:\Program Files\PostgreSQL\16\data\postgresql.conf.bak
+C:\Program Files\PostgreSQL\9.6\data\pg_hba.conf
+C:\Program Files\PostgreSQL\10\data\pg_hba.conf
+C:\Program Files\PostgreSQL\11\data\pg_hba.conf
+C:\Program Files\PostgreSQL\12\data\pg_hba.conf
+C:\Program Files\PostgreSQL\13\data\pg_hba.conf
+C:\Program Files\PostgreSQL\14\data\pg_hba.conf
+C:\Program Files\PostgreSQL\15\data\pg_hba.conf
+C:\Program Files\PostgreSQL\16\data\pg_hba.conf
+C:\Program Files (x86)\PostgreSQL\9.6\data\pg_hba.conf
+C:\Program Files (x86)\PostgreSQL\10\data\pg_hba.conf
+C:\Program Files (x86)\PostgreSQL\11\data\pg_hba.conf
+C:\Program Files (x86)\PostgreSQL\12\data\pg_hba.conf
+C:\ProgramData\PostgreSQL\data\pg_hba.conf
+C:\PostgreSQL\data\pg_hba.conf
+C:\pgsql\data\pg_hba.conf
+C:\xampp\postgresql\data\pg_hba.conf
+C:\Program Files\PostgreSQL\9.6\data\pg_hba.conf.bak
+C:\Program Files\PostgreSQL\10\data\pg_hba.conf.bak
+C:\Program Files\PostgreSQL\11\data\pg_hba.conf.bak
+C:\Program Files\PostgreSQL\12\data\pg_hba.conf.bak
+C:\Program Files\PostgreSQL\9.6\data\pg_ident.conf
+C:\Program Files\PostgreSQL\10\data\pg_ident.conf
+C:\Program Files\PostgreSQL\11\data\pg_ident.conf
+C:\Program Files\PostgreSQL\12\data\pg_ident.conf
+C:\Program Files\PostgreSQL\13\data\pg_ident.conf
+C:\Program Files\PostgreSQL\14\data\pg_ident.conf
+C:\Program Files\PostgreSQL\15\data\pg_ident.conf
+C:\Program Files\PostgreSQL\16\data\pg_ident.conf
+C:\Program Files\PostgreSQL\9.6\data\PG_VERSION
+C:\Program Files\PostgreSQL\10\data\PG_VERSION
+C:\Program Files\PostgreSQL\11\data\PG_VERSION
+C:\Program Files\PostgreSQL\12\data\PG_VERSION
+C:\Program Files\PostgreSQL\13\data\PG_VERSION
+C:\Program Files\PostgreSQL\14\data\PG_VERSION
+C:\Program Files\PostgreSQL\15\data\PG_VERSION
+C:\Program Files\PostgreSQL\16\data\PG_VERSION
+C:\Program Files\PostgreSQL\9.6\data\postmaster.pid
+C:\Program Files\PostgreSQL\10\data\postmaster.pid
+C:\Program Files\PostgreSQL\11\data\postmaster.pid
+C:\Program Files\PostgreSQL\12\data\postmaster.pid
+C:\ProgramData\PostgreSQL\log\postgresql.log
+C:\Program Files\PostgreSQL\9.6\data\postgresql.log
+C:\Program Files\PostgreSQL\10\data\postgresql.log
+C:\Program Files\PostgreSQL\11\data\postgresql.log
+C:\Program Files\PostgreSQL\12\data\postgresql.log
+C:\xampp\htdocs\.env
+C:\xampp\htdocs\admin\.env
+C:\xampp\htdocs\api\.env
+C:\xampp\htdocs\backup\.env
+C:\wamp\www\.env
+C:\wamp64\www\.env
+C:\inetpub\wwwroot\.env
+C:\inetpub\wwwroot\admin\.env
+C:\inetpub\wwwroot\api\.env
+C:\www\html\.env
+C:\www\html\admin\.env
+C:\www\html\api\.env
+C:\nginx\html\.env
+C:\nginx\html\admin\.env
+C:\Apache24\htdocs\.env
+C:\temp\.env
+C:\tmp\.env
+C:\Users\Administrator\.env
+C:\Users\postgres\.env
+C:\Users\www\.env
+C:\staging\.env
+C:\dev\.env
+C:\production\.env
+C:\app\.env
+C:\api\.env
+C:\admin\.env
+C:\.env
+D:\.env
+C:\backup\backup.sql
+C:\backup\pg_dump.sql
+C:\backup\database.sql
+C:\backup\postgresql\backup.sql
+C:\backups\backup.sql
+C:\backups\database.sql
+C:\backups\pg_dump.sql
+D:\backup\backup.sql
+D:\backup\database.sql
+D:\backups\backup.sql
+E:\backup\backup.sql
+E:\backups\backup.sql
+C:\xampp\htdocs\backup.sql
+C:\xampp\htdocs\pg_dump.sql
+C:\xampp\htdocs\database.sql
+C:\xampp\htdocs\admin\backup.sql
+C:\xampp\htdocs\api\backup.sql
+C:\xampp\htdocs\backup\backup.sql
+C:\xampp\htdocs\uploads\backup.sql
+C:\wamp\www\backup.sql
+C:\wamp\www\database.sql
+C:\wamp64\www\backup.sql
+C:\inetpub\wwwroot\backup.sql
+C:\inetpub\wwwroot\database.sql
+C:\inetpub\wwwroot\admin\backup.sql
+C:\inetpub\wwwroot\api\backup.sql
+C:\inetpub\wwwroot\backup\backup.sql
+C:\www\html\backup.sql
+C:\www\html\database.sql
+C:\www\html\admin\backup.sql
+C:\www\html\api\backup.sql
+C:\nginx\html\backup.sql
+C:\nginx\html\admin\backup.sql
+C:\Apache24\htdocs\backup.sql
+C:\temp\backup.sql
+C:\temp\database.sql
+C:\temp\pg_dump.sql
+C:\tmp\backup.sql
+C:\tmp\database.sql
+C:\Windows\temp\backup.sql
+C:\Users\Administrator\backup.sql
+C:\Users\Administrator\Documents\backup.sql
+C:\Users\Administrator\Desktop\backup.sql
+C:\Users\postgres\backup.sql
+C:\Users\postgres\Documents\backup.sql
+C:\Users\Public\backup.sql
+C:\staging\backup.sql
+C:\dev\backup.sql
+C:\production\backup.sql
+C:\app\backup.sql
+C:\api\backup.sql
+C:\admin\backup.sql
+C:\uploads\backup.sql
+C:\files\backup.sql
+C:\database\backup.sql
+C:\backup.sql
+C:\database.sql
+C:\pg_dump.sql
+D:\backup.sql
+D:\database.sql
+E:\backup.sql
+C:\xampp\htdocs\config.php
+C:\xampp\htdocs\config.inc.php
+C:\xampp\htdocs\database.php
+C:\xampp\htdocs\admin\config.php
+C:\xampp\htdocs\api\config.php
+C:\wamp\www\config.php
+C:\wamp\www\database.php
+C:\wamp64\www\config.php
+C:\inetpub\wwwroot\config.php
+C:\inetpub\wwwroot\config.inc.php
+C:\inetpub\wwwroot\database.php
+C:\inetpub\wwwroot\admin\config.php
+C:\inetpub\wwwroot\api\config.php
+C:\www\html\config.php
+C:\www\html\database.php
+C:\www\html\admin\config.php
+C:\www\html\api\config.php
+C:\nginx\html\config.php
+C:\Apache24\htdocs\config.php
+C:\temp\config.php
+C:\tmp\config.php
+C:\Users\Administrator\config.php
+C:\staging\config.php
+C:\dev\config.php
+C:\production\config.php
+C:\app\config.php
+C:\api\config.php
+C:\admin\config.php
+C:\config.php
+C:\database.php
+D:\config.php
+C:\xampp\htdocs\wp-config.php
+C:\xampp\htdocs\wp-config.php.bak
+C:\wamp\www\wp-config.php
+C:\wamp64\www\wp-config.php
+C:\inetpub\wwwroot\wp-config.php
+C:\inetpub\wwwroot\wp-config.php.bak
+C:\www\html\wp-config.php
+C:\nginx\html\wp-config.php
+C:\Apache24\htdocs\wp-config.php
+C:\temp\wp-config.php
+C:\staging\wp-config.php
+C:\dev\wp-config.php
+C:\admin\wp-config.php
+C:\wp-config.php
+D:\wp-config.php
+C:\Program Files\pgAdmin 4\pgadmin4.db
+C:\Program Files\pgAdmin 4\pgadmin4.conf
+C:\Program Files (x86)\pgAdmin 4\pgadmin4.db
+C:\pgAdmin4\pgadmin4.db
+C:\pgAdmin 4\pgadmin4.db
+C:\Users\Administrator\.pgpass
+C:\Users\Administrator\.psql_history
+C:\Users\postgres\.pgpass
+C:\Users\postgres\.psql_history
+C:\Users\Public\.pgpass
+C:\Users\www\.pgpass
+C:\Users\Administrator\Documents\.pgpass
+C:\Users\Administrator\Documents\.psql_history
+C:\xampp\htdocs\docker-compose.yml
+C:\xampp\htdocs\Dockerfile
+C:\wamp\www\docker-compose.yml
+C:\inetpub\wwwroot\docker-compose.yml
+C:\www\html\docker-compose.yml
+C:\staging\docker-compose.yml
+C:\dev\docker-compose.yml
+C:\docker-compose.yml
+C:\Dockerfile
+C:\xampp\postgresql\data\pgbouncer.ini
+C:\xampp\postgresql\data\pgpool.conf
+C:\temp\pgbouncer.ini
+C:\temp\pgpool.conf
+C:\Program Files\PostgreSQL\9.6\data\recovery.conf
+C:\Program Files\PostgreSQL\10\data\recovery.conf
+C:\Program Files\PostgreSQL\11\data\recovery.conf
+C:\Program Files\PostgreSQL\12\data\recovery.conf
