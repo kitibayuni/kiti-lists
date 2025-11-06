@@ -1,0 +1,103 @@
+C:\Program Files\Apache Cassandra\
+C:\Program Files\Cassandra\
+C:\Program Files\Apache-Cassandra\
+C:\Program Files\Apache Cassandra\conf\
+C:\Program Files\Apache Cassandra\data\
+C:\Program Files\Apache Cassandra\logs\
+C:\Program Files\Apache Cassandra\bin\
+C:\Program Files (x86)\Apache Cassandra\
+C:\Program Files (x86)\Cassandra\
+C:\cassandra\
+C:\cassandra\conf\
+C:\cassandra\data\
+C:\cassandra\data\data\
+C:\cassandra\data\commitlog\
+C:\cassandra\data\hints\
+C:\cassandra\data\saved_caches\
+C:\cassandra\logs\
+C:\cassandra\bin\
+C:\Cassandra\
+C:\Cassandra\conf\
+C:\Cassandra\data\
+C:\Cassandra\logs\
+C:\Apache-Cassandra\
+C:\Apache-Cassandra\conf\
+C:\Apache-Cassandra\data\
+C:\data\
+C:\data\cassandra\
+C:\data\cassandra\data\
+C:\data\cassandra\commitlog\
+D:\data\
+D:\data\cassandra\
+D:\cassandra\
+D:\cassandra\data\
+E:\data\
+E:\cassandra\
+C:\backup\
+C:\backup\cassandra\
+C:\backups\
+C:\backups\cassandra\
+D:\backup\
+D:\backups\
+E:\backup\
+E:\backups\
+C:\inetpub\
+C:\inetpub\wwwroot\
+C:\inetpub\wwwroot\admin\
+C:\inetpub\wwwroot\api\
+C:\inetpub\wwwroot\App_Data\
+C:\xampp\
+C:\xampp\htdocs\
+C:\xampp\htdocs\admin\
+C:\xampp\htdocs\api\
+C:\xampp\htdocs\backup\
+C:\xampp\htdocs\App_Data\
+C:\wamp\
+C:\wamp\www\
+C:\wamp64\
+C:\wamp64\www\
+C:\www\
+C:\www\html\
+C:\webroot\
+C:\Apache24\
+C:\Apache24\htdocs\
+C:\nginx\
+C:\nginx\html\
+C:\temp\
+C:\tmp\
+C:\Windows\temp\
+C:\Windows\tmp\
+C:\Users\Administrator\
+C:\Users\Administrator\Documents\
+C:\Users\Administrator\Desktop\
+C:\Users\cassandra\
+C:\Users\Public\
+C:\staging\
+C:\dev\
+C:\development\
+C:\test\
+C:\production\
+C:\app\
+C:\api\
+C:\admin\
+C:\uploads\
+C:\files\
+C:\logs\
+C:\database\
+C:\databases\
+C:\db\
+C:\dump\
+C:\export\
+C:\import\
+D:\www\
+D:\htdocs\
+D:\inetpub\
+D:\staging\
+D:\dev\
+D:\production\
+E:\www\
+E:\htdocs\
+E:\staging\
+C:\
+D:\
+E:\
