@@ -1,0 +1,93 @@
+C:\Program Files\LiteSpeed\
+C:\Program Files\LiteSpeed Technologies\
+C:\Program Files\LiteSpeed Technologies\LiteSpeed Web Server\
+C:\Program Files\LiteSpeed Technologies\OpenLiteSpeed\
+C:\Program Files\LiteSpeed\conf\
+C:\Program Files\LiteSpeed\conf\cert\
+C:\Program Files\LiteSpeed\conf\vhosts\
+C:\Program Files\LiteSpeed\admin\
+C:\Program Files\LiteSpeed\admin\conf\
+C:\Program Files\LiteSpeed\logs\
+C:\Program Files\LiteSpeed\bin\
+C:\Program Files\LiteSpeed\fcgi-bin\
+C:\Program Files\LiteSpeed\lsphp74\
+C:\Program Files\LiteSpeed\lsphp80\
+C:\Program Files\LiteSpeed\lsphp81\
+C:\Program Files\LiteSpeed\lsphp82\
+C:\Program Files\LiteSpeed\backup\
+C:\Program Files\LiteSpeed\cachedata\
+C:\Program Files (x86)\LiteSpeed\
+C:\Program Files (x86)\LiteSpeed Technologies\
+C:\LiteSpeed\
+C:\LiteSpeed\conf\
+C:\LiteSpeed\conf\cert\
+C:\LiteSpeed\conf\vhosts\
+C:\LiteSpeed\admin\
+C:\LiteSpeed\logs\
+C:\LiteSpeed\bin\
+C:\LiteSpeed\fcgi-bin\
+C:\LiteSpeed\lsphp74\
+C:\LiteSpeed\lsphp80\
+C:\LiteSpeed\lsphp81\
+C:\LiteSpeed\lsphp82\
+C:\LiteSpeed\backup\
+C:\lsws\
+C:\lsws\conf\
+C:\lsws\admin\
+C:\lsws\logs\
+C:\lsws\bin\
+C:\OpenLiteSpeed\
+C:\OpenLiteSpeed\conf\
+C:\OpenLiteSpeed\logs\
+C:\inetpub\
+C:\inetpub\wwwroot\
+C:\inetpub\wwwroot\admin\
+C:\inetpub\wwwroot\api\
+C:\inetpub\wwwroot\App_Data\
+C:\www\
+C:\www\html\
+C:\www\html\admin\
+C:\www\html\api\
+C:\www\vhosts\
+C:\webroot\
+C:\htdocs\
+C:\html\
+C:\temp\
+C:\tmp\
+C:\Windows\temp\
+C:\Windows\tmp\
+C:\Users\Administrator\
+C:\Users\Administrator\Documents\
+C:\Users\Administrator\Desktop\
+C:\Users\Public\
+C:\staging\
+C:\dev\
+C:\development\
+C:\test\
+C:\production\
+C:\app\
+C:\api\
+C:\admin\
+C:\uploads\
+C:\files\
+C:\assets\
+C:\logs\
+C:\backup\
+C:\backups\
+C:\cachedata\
+C:\vhosts\
+D:\www\
+D:\htdocs\
+D:\inetpub\
+D:\LiteSpeed\
+D:\staging\
+D:\dev\
+D:\production\
+D:\vhosts\
+E:\www\
+E:\htdocs\
+E:\staging\
+E:\vhosts\
+C:\
+D:\
+E:\
