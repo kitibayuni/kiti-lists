@@ -1,0 +1,254 @@
+C:\Program Files\MongoDB\Server\3.2\bin\mongod.cfg
+C:\Program Files\MongoDB\Server\3.4\bin\mongod.cfg
+C:\Program Files\MongoDB\Server\3.6\bin\mongod.cfg
+C:\Program Files\MongoDB\Server\4.0\bin\mongod.cfg
+C:\Program Files\MongoDB\Server\4.2\bin\mongod.cfg
+C:\Program Files\MongoDB\Server\4.4\bin\mongod.cfg
+C:\Program Files\MongoDB\Server\5.0\bin\mongod.cfg
+C:\Program Files\MongoDB\Server\6.0\bin\mongod.cfg
+C:\Program Files\MongoDB\Server\7.0\bin\mongod.cfg
+C:\MongoDB\mongod.conf
+C:\MongoDB\mongodb.conf
+C:\mongo\mongod.conf
+C:\data\db\mongod.conf
+C:\temp\mongod.conf
+C:\tmp\mongod.conf
+C:\mongod.conf
+C:\mongodb.conf
+C:\Program Files\MongoDB\Server\4.0\log\mongod.log
+C:\Program Files\MongoDB\Server\4.4\log\mongod.log
+C:\Program Files\MongoDB\Server\5.0\log\mongod.log
+C:\Program Files\MongoDB\Server\6.0\log\mongod.log
+C:\Program Files\MongoDB\Server\7.0\log\mongod.log
+C:\MongoDB\log\mongod.log
+C:\mongo\log\mongod.log
+C:\data\db\mongod.log
+C:\temp\mongod.log
+C:\tmp\mongod.log
+C:\mongod.log
+C:\mongodb.log
+C:\Program Files\MongoDB\Server\4.0\data\WiredTiger
+C:\Program Files\MongoDB\Server\4.4\data\WiredTiger
+C:\Program Files\MongoDB\Server\5.0\data\WiredTiger
+C:\Program Files\MongoDB\Server\6.0\data\WiredTiger
+C:\Program Files\MongoDB\Server\7.0\data\WiredTiger
+C:\Program Files\MongoDB\Server\4.0\data\WiredTiger.lock
+C:\Program Files\MongoDB\Server\4.4\data\WiredTiger.lock
+C:\Program Files\MongoDB\Server\5.0\data\WiredTiger.lock
+C:\Program Files\MongoDB\Server\6.0\data\WiredTiger.lock
+C:\Program Files\MongoDB\Server\4.0\data\mongod.lock
+C:\Program Files\MongoDB\Server\4.4\data\mongod.lock
+C:\Program Files\MongoDB\Server\5.0\data\mongod.lock
+C:\Program Files\MongoDB\Server\6.0\data\mongod.lock
+C:\MongoDB\data\WiredTiger
+C:\MongoDB\data\WiredTiger.lock
+C:\MongoDB\data\mongod.lock
+C:\data\db\WiredTiger
+C:\data\db\WiredTiger.lock
+C:\data\db\mongod.lock
+D:\data\db\WiredTiger
+D:\data\db\mongod.lock
+C:\MongoDB\mongodb-keyfile
+C:\mongo\mongodb-keyfile
+C:\data\db\mongodb-keyfile
+C:\temp\mongodb-keyfile
+C:\tmp\mongodb-keyfile
+C:\mongodb-keyfile
+C:\keyFile
+C:\inetpub\wwwroot\.env
+C:\inetpub\wwwroot\admin\.env
+C:\inetpub\wwwroot\api\.env
+C:\inetpub\wwwroot\App_Data\.env
+C:\xampp\htdocs\.env
+C:\xampp\htdocs\admin\.env
+C:\xampp\htdocs\api\.env
+C:\xampp\htdocs\backup\.env
+C:\xampp\htdocs\App_Data\.env
+C:\wamp\www\.env
+C:\wamp64\www\.env
+C:\www\html\.env
+C:\www\html\admin\.env
+C:\www\html\api\.env
+C:\nginx\html\.env
+C:\nginx\html\admin\.env
+C:\Apache24\htdocs\.env
+C:\temp\.env
+C:\tmp\.env
+C:\Windows\temp\.env
+C:\Users\Administrator\.env
+C:\Users\mongodb\.env
+C:\Users\mongo\.env
+C:\Users\Public\.env
+C:\staging\.env
+C:\dev\.env
+C:\production\.env
+C:\app\.env
+C:\api\.env
+C:\admin\.env
+C:\.env
+D:\.env
+E:\.env
+C:\backup\backup.bson
+C:\backup\database.bson
+C:\backup\mongodb\backup.bson
+C:\backups\backup.bson
+C:\backups\database.bson
+C:\backups\mongodb\backup.bson
+D:\backup\backup.bson
+D:\backup\database.bson
+D:\backups\backup.bson
+E:\backup\backup.bson
+E:\backups\backup.bson
+C:\inetpub\wwwroot\backup.bson
+C:\inetpub\wwwroot\backup.json
+C:\inetpub\wwwroot\database.bson
+C:\inetpub\wwwroot\database.json
+C:\inetpub\wwwroot\dump.bson
+C:\inetpub\wwwroot\admin\backup.bson
+C:\inetpub\wwwroot\admin\backup.json
+C:\inetpub\wwwroot\api\backup.bson
+C:\inetpub\wwwroot\api\backup.json
+C:\inetpub\wwwroot\App_Data\backup.bson
+C:\inetpub\wwwroot\App_Data\database.bson
+C:\xampp\htdocs\backup.bson
+C:\xampp\htdocs\backup.json
+C:\xampp\htdocs\database.bson
+C:\xampp\htdocs\database.json
+C:\xampp\htdocs\dump.bson
+C:\xampp\htdocs\admin\backup.bson
+C:\xampp\htdocs\admin\backup.json
+C:\xampp\htdocs\api\backup.bson
+C:\xampp\htdocs\api\backup.json
+C:\xampp\htdocs\backup\backup.bson
+C:\xampp\htdocs\backup\database.bson
+C:\xampp\htdocs\App_Data\backup.bson
+C:\xampp\htdocs\App_Data\database.bson
+C:\wamp\www\backup.bson
+C:\wamp\www\backup.json
+C:\wamp\www\database.bson
+C:\wamp64\www\backup.bson
+C:\wamp64\www\backup.json
+C:\www\html\backup.bson
+C:\www\html\backup.json
+C:\www\html\database.bson
+C:\www\html\admin\backup.bson
+C:\www\html\api\backup.bson
+C:\nginx\html\backup.bson
+C:\nginx\html\backup.json
+C:\nginx\html\admin\backup.bson
+C:\Apache24\htdocs\backup.bson
+C:\Apache24\htdocs\backup.json
+C:\temp\backup.bson
+C:\temp\backup.json
+C:\temp\database.bson
+C:\temp\database.json
+C:\temp\dump.bson
+C:\tmp\backup.bson
+C:\tmp\backup.json
+C:\tmp\dump.bson
+C:\Windows\temp\backup.bson
+C:\Windows\temp\backup.json
+C:\Users\Administrator\backup.bson
+C:\Users\Administrator\backup.json
+C:\Users\Administrator\Documents\backup.bson
+C:\Users\Administrator\Desktop\backup.bson
+C:\Users\mongodb\backup.bson
+C:\Users\mongodb\backup.json
+C:\Users\mongo\backup.bson
+C:\Users\Public\backup.bson
+C:\staging\backup.bson
+C:\staging\backup.json
+C:\dev\backup.bson
+C:\dev\backup.json
+C:\production\backup.bson
+C:\production\backup.json
+C:\api\backup.bson
+C:\api\backup.json
+C:\admin\backup.bson
+C:\admin\backup.json
+C:\uploads\backup.bson
+C:\uploads\backup.json
+C:\files\backup.bson
+C:\files\backup.json
+C:\database\backup.bson
+C:\backup.bson
+C:\backup.json
+C:\database.bson
+C:\database.json
+C:\dump.bson
+C:\dump.json
+D:\backup.bson
+D:\backup.json
+D:\database.bson
+E:\backup.bson
+E:\backup.json
+C:\inetpub\wwwroot\config.php
+C:\inetpub\wwwroot\database.php
+C:\inetpub\wwwroot\admin\config.php
+C:\inetpub\wwwroot\api\config.php
+C:\xampp\htdocs\config.php
+C:\xampp\htdocs\config.php.bak
+C:\xampp\htdocs\database.php
+C:\xampp\htdocs\admin\config.php
+C:\xampp\htdocs\api\config.php
+C:\wamp\www\config.php
+C:\wamp\www\database.php
+C:\wamp64\www\config.php
+C:\www\html\config.php
+C:\www\html\database.php
+C:\www\html\admin\config.php
+C:\www\html\api\config.php
+C:\nginx\html\config.php
+C:\Apache24\htdocs\config.php
+C:\temp\config.php
+C:\tmp\config.php
+C:\staging\config.php
+C:\dev\config.php
+C:\production\config.php
+C:\app\config.php
+C:\api\config.php
+C:\admin\config.php
+C:\config.php
+C:\database.php
+D:\config.php
+C:\inetpub\wwwroot\wp-config.php
+C:\inetpub\wwwroot\wp-config.php.bak
+C:\xampp\htdocs\wp-config.php
+C:\xampp\htdocs\wp-config.php.bak
+C:\wamp\www\wp-config.php
+C:\wamp64\www\wp-config.php
+C:\www\html\wp-config.php
+C:\nginx\html\wp-config.php
+C:\Apache24\htdocs\wp-config.php
+C:\temp\wp-config.php
+C:\staging\wp-config.php
+C:\dev\wp-config.php
+C:\admin\wp-config.php
+C:\wp-config.php
+D:\wp-config.php
+C:\inetpub\wwwroot\docker-compose.yml
+C:\inetpub\wwwroot\Dockerfile
+C:\xampp\htdocs\docker-compose.yml
+C:\xampp\htdocs\Dockerfile
+C:\wamp\www\docker-compose.yml
+C:\www\html\docker-compose.yml
+C:\staging\docker-compose.yml
+C:\dev\docker-compose.yml
+C:\docker-compose.yml
+C:\Dockerfile
+D:\docker-compose.yml
+C:\Program Files\MongoDB\Server\4.0\data\users.bson
+C:\Program Files\MongoDB\Server\4.4\data\users.bson
+C:\Program Files\MongoDB\Server\5.0\data\users.bson
+C:\Program Files\MongoDB\Server\6.0\data\users.bson
+C:\MongoDB\data\users.bson
+C:\data\db\users.bson
+C:\temp\users.bson
+C:\tmp\users.bson
+C:\users.bson
+C:\MongoDB\data\server.pem
+C:\MongoDB\data\ca.pem
+C:\data\db\server.pem
+C:\temp\server.pem
+C:\tmp\server.pem
+C:\server.pem
