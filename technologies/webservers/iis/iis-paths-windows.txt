@@ -1,0 +1,97 @@
+C:\inetpub\
+C:\inetpub\wwwroot\
+C:\inetpub\wwwroot\aspnet_client\
+C:\inetpub\wwwroot\App_Data\
+C:\inetpub\wwwroot\App_Code\
+C:\inetpub\wwwroot\bin\
+C:\inetpub\wwwroot\admin\
+C:\inetpub\wwwroot\api\
+C:\inetpub\wwwroot\images\
+C:\inetpub\wwwroot\scripts\
+C:\inetpub\wwwroot\css\
+C:\inetpub\wwwroot\js\
+C:\inetpub\logs\
+C:\inetpub\logs\LogFiles\
+C:\inetpub\logs\LogFiles\W3SVC1\
+C:\inetpub\logs\LogFiles\W3SVC2\
+C:\inetpub\logs\FailedReqLogFiles\
+C:\inetpub\history\
+C:\inetpub\temp\
+C:\inetpub\temp\apppools\
+C:\inetpub\custerr\
+C:\inetpub\adminscripts\
+C:\Windows\System32\inetsrv\
+C:\Windows\System32\inetsrv\config\
+C:\Windows\System32\inetsrv\config\schema\
+C:\Windows\System32\inetsrv\config\export\
+C:\Windows\System32\inetsrv\backup\
+C:\Windows\System32\inetsrv\MetaBack\
+C:\Windows\SysWOW64\inetsrv\
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\Config\
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Config\
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\Config\
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\Config\
+C:\Program Files\IIS\
+C:\Program Files\IIS Express\
+C:\Program Files (x86)\IIS Express\
+C:\Program Files\Common Files\Microsoft Shared\Web Server Extensions\
+C:\Users\Administrator\Documents\IISExpress\
+C:\Users\Administrator\Documents\My Web Sites\
+C:\Users\Administrator\Documents\Visual Studio 2022\WebSites\
+C:\Users\Administrator\AppData\Local\Temp\iisexpress\
+C:\www\
+C:\www\html\
+C:\www\html\admin\
+C:\www\html\api\
+C:\www\vhosts\
+C:\webroot\
+C:\websites\
+C:\sites\
+C:\web\
+C:\wwwroot\
+C:\htdocs\
+C:\public_html\
+C:\staging\
+C:\dev\
+C:\development\
+C:\test\
+C:\production\
+C:\app\
+C:\apps\
+C:\api\
+C:\admin\
+C:\portal\
+C:\uploads\
+C:\files\
+C:\assets\
+C:\content\
+C:\media\
+C:\backup\
+C:\backups\
+C:\temp\
+C:\tmp\
+C:\Windows\temp\
+C:\Windows\tmp\
+C:\ProgramData\Microsoft\IIS\
+C:\ProgramData\Microsoft\IISExpress\
+C:\Users\Public\
+D:\inetpub\
+D:\inetpub\wwwroot\
+D:\www\
+D:\websites\
+D:\web\
+D:\staging\
+D:\dev\
+D:\production\
+E:\inetpub\
+E:\www\
+E:\websites\
+C:\
+D:\
+E:\
