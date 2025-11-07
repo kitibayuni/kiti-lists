@@ -1,0 +1,73 @@
+C:\Program Files\Atlassian\
+C:\Program Files\Atlassian\Bitbucket\
+C:\Program Files\Atlassian\Bitbucket\app\
+C:\Program Files\Atlassian\Bitbucket\bin\
+C:\Program Files\Atlassian\Bitbucket\conf\
+C:\Program Files\Atlassian\Bitbucket\logs\
+C:\Program Files (x86)\Atlassian\
+C:\Program Files (x86)\Atlassian\Bitbucket\
+C:\Atlassian\
+C:\Atlassian\ApplicationData\
+C:\Atlassian\ApplicationData\Bitbucket\
+C:\Atlassian\ApplicationData\Bitbucket\shared\
+C:\Atlassian\ApplicationData\Bitbucket\log\
+C:\Atlassian\ApplicationData\Bitbucket\tmp\
+C:\Atlassian\ApplicationData\Bitbucket\caches\
+C:\Atlassian\ApplicationData\Bitbucket\export\
+C:\Atlassian\ApplicationData\Bitbucket\data\
+C:\Atlassian\ApplicationData\Bitbucket\repositories\
+C:\bitbucket\
+C:\bitbucket\pipelines\
+C:\bitbucket\pipelines\build\
+C:\bitbucket\pipelines\cache\
+C:\bitbucket\pipelines\artifacts\
+C:\bitbucket-pipelines\
+C:\pipelines\
+C:\pipelines\build\
+C:\pipelines\cache\
+C:\pipelines\artifacts\
+C:\pipelines\tmp\
+C:\workspace\
+C:\workspace\bitbucket\
+C:\project\
+C:\project\bitbucket\
+C:\app\
+C:\app\bitbucket\
+C:\src\
+C:\src\bitbucket\
+C:\build\
+C:\build\artifacts\
+C:\cache\
+C:\artifacts\
+C:\temp\
+C:\temp\bitbucket\
+C:\temp\pipelines\
+C:\tmp\
+C:\tmp\bitbucket\
+C:\Windows\temp\
+C:\Users\Administrator\
+C:\Users\Administrator\bitbucket\
+C:\Users\Administrator\Documents\
+C:\Users\Administrator\Desktop\
+C:\Users\Public\
+C:\ProgramData\Atlassian\
+C:\ProgramData\Bitbucket\
+C:\backup\
+C:\backup\bitbucket\
+C:\backups\
+C:\backups\bitbucket\
+C:\data\
+C:\data\bitbucket\
+C:\docker\
+C:\docker\bitbucket\
+D:\bitbucket\
+D:\atlassian\
+D:\workspace\
+D:\backup\
+D:\backup\bitbucket\
+E:\bitbucket\
+E:\workspace\
+E:\backup\
+C:\
+D:\
+E:\
