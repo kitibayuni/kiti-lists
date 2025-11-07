@@ -1,0 +1,354 @@
+C:\Program Files\Jenkins\config.xml
+C:\Program Files\Jenkins\config.xml.bak
+C:\Program Files\Jenkins\config.xml.old
+C:\Program Files (x86)\Jenkins\config.xml
+C:\jenkins\config.xml
+C:\jenkins\config.xml.bak
+C:\Jenkins\config.xml
+C:\.jenkins\config.xml
+C:\Users\Administrator\.jenkins\config.xml
+C:\Users\jenkins\.jenkins\config.xml
+C:\ProgramData\Jenkins\config.xml
+C:\var\lib\jenkins\config.xml
+C:\jenkins_home\config.xml
+C:\temp\config.xml
+C:\tmp\config.xml
+C:\backup\config.xml
+C:\config.xml
+C:\Program Files\Jenkins\credentials.xml
+C:\Program Files\Jenkins\credentials.xml.bak
+C:\jenkins\credentials.xml
+C:\Jenkins\credentials.xml
+C:\.jenkins\credentials.xml
+C:\Users\Administrator\.jenkins\credentials.xml
+C:\ProgramData\Jenkins\credentials.xml
+C:\jenkins_home\credentials.xml
+C:\temp\credentials.xml
+C:\tmp\credentials.xml
+C:\backup\credentials.xml
+C:\credentials.xml
+C:\Program Files\Jenkins\identity.key
+C:\Program Files\Jenkins\identity.key.enc
+C:\jenkins\identity.key
+C:\Jenkins\identity.key
+C:\.jenkins\identity.key
+C:\Users\Administrator\.jenkins\identity.key
+C:\ProgramData\Jenkins\identity.key
+C:\jenkins_home\identity.key
+C:\temp\identity.key
+C:\tmp\identity.key
+C:\identity.key
+C:\Program Files\Jenkins\secret.key
+C:\Program Files\Jenkins\secret.key.not.so.secret
+C:\jenkins\secret.key
+C:\Jenkins\secret.key
+C:\.jenkins\secret.key
+C:\Users\Administrator\.jenkins\secret.key
+C:\ProgramData\Jenkins\secret.key
+C:\jenkins_home\secret.key
+C:\temp\secret.key
+C:\tmp\secret.key
+C:\secret.key
+C:\Program Files\Jenkins\secrets\master.key
+C:\Program Files\Jenkins\secrets\hudson.util.Secret
+C:\jenkins\secrets\master.key
+C:\Jenkins\secrets\master.key
+C:\.jenkins\secrets\master.key
+C:\Users\Administrator\.jenkins\secrets\master.key
+C:\ProgramData\Jenkins\secrets\master.key
+C:\jenkins_home\secrets\master.key
+C:\temp\master.key
+C:\tmp\master.key
+C:\master.key
+C:\Program Files\Jenkins\users\users.xml
+C:\Program Files\Jenkins\users\admin\config.xml
+C:\jenkins\users\users.xml
+C:\jenkins\users\admin\config.xml
+C:\Jenkins\users\users.xml
+C:\.jenkins\users\users.xml
+C:\Users\Administrator\.jenkins\users\users.xml
+C:\ProgramData\Jenkins\users\users.xml
+C:\temp\users.xml
+C:\users.xml
+C:\Program Files\Jenkins\jenkins.install.InstallUtil.lastExecVersion
+C:\Program Files\Jenkins\jenkins.install.UpgradeWizard.state
+C:\Program Files\Jenkins\jenkins.model.JenkinsLocationConfiguration.xml
+C:\Program Files\Jenkins\jenkins.CLI.xml
+C:\jenkins\jenkins.install.InstallUtil.lastExecVersion
+C:\jenkins\jenkins.install.UpgradeWizard.state
+C:\Jenkins\jenkins.model.JenkinsLocationConfiguration.xml
+C:\.jenkins\jenkins.CLI.xml
+C:\Program Files\Jenkins\nodeMonitors.xml
+C:\Program Files\Jenkins\queue.xml
+C:\Program Files\Jenkins\queue.xml.bak
+C:\jenkins\queue.xml
+C:\Jenkins\queue.xml
+C:\.jenkins\queue.xml
+C:\ProgramData\Jenkins\queue.xml
+C:\queue.xml
+C:\Program Files\Jenkins\hudson.model.UpdateCenter.xml
+C:\Program Files\Jenkins\hudson.plugins.git.GitTool.xml
+C:\Program Files\Jenkins\hudson.tasks.Mailer.xml
+C:\Program Files\Jenkins\hudson.tasks.Maven.xml
+C:\jenkins\hudson.model.UpdateCenter.xml
+C:\Jenkins\hudson.plugins.git.GitTool.xml
+C:\.jenkins\hudson.tasks.Mailer.xml
+C:\Program Files\Jenkins\Jenkinsfile
+C:\Program Files\Jenkins\Jenkinsfile.bak
+C:\Program Files\Jenkins\pipeline.groovy
+C:\jenkins\Jenkinsfile
+C:\Jenkins\Jenkinsfile
+C:\jenkins_home\Jenkinsfile
+C:\Users\Administrator\Jenkinsfile
+C:\temp\Jenkinsfile
+C:\Jenkinsfile
+C:\pipeline.groovy
+C:\Program Files\Jenkins\jobs\build-job\config.xml
+C:\Program Files\Jenkins\jobs\deploy-job\config.xml
+C:\Program Files\Jenkins\jobs\test-job\config.xml
+C:\Program Files\Jenkins\jobs\prod\config.xml
+C:\jenkins\jobs\build\config.xml
+C:\jenkins\jobs\deploy\config.xml
+C:\jenkins\jobs\test\config.xml
+C:\Jenkins\jobs\staging\config.xml
+C:\.jenkins\jobs\dev\config.xml
+C:\jenkins_home\jobs\build\config.xml
+C:\Program Files\Jenkins\workspace\build-job\Jenkinsfile
+C:\Program Files\Jenkins\workspace\deploy-job\config.xml
+C:\Program Files\Jenkins\workspace\test-job\pom.xml
+C:\jenkins\workspace\build\Jenkinsfile
+C:\jenkins\workspace\deploy\config.xml
+C:\Jenkins\workspace\test\pom.xml
+C:\.jenkins\workspace\build\Jenkinsfile
+C:\jenkins_home\workspace\deploy\config.xml
+C:\Program Files\Jenkins\logs\jenkins.log
+C:\Program Files\Jenkins\logs\access.log
+C:\Program Files\Jenkins\logs\builds.log
+C:\jenkins\logs\jenkins.log
+C:\jenkins\logs\jenkins.err
+C:\Jenkins\logs\access.log
+C:\ProgramData\Jenkins\logs\jenkins.log
+C:\temp\jenkins.log
+C:\tmp\jenkins.log
+C:\jenkins.log
+C:\Program Files\Jenkins\init.groovy
+C:\Program Files\Jenkins\init.groovy.d\init.groovy
+C:\jenkins\init.groovy
+C:\Jenkins\init.groovy
+C:\.jenkins\init.groovy
+C:\jenkins_home\init.groovy
+C:\temp\init.groovy
+C:\init.groovy
+C:\Program Files\Jenkins\scriptApproval.xml
+C:\jenkins\scriptApproval.xml
+C:\Jenkins\scriptApproval.xml
+C:\.jenkins\scriptApproval.xml
+C:\ProgramData\Jenkins\scriptApproval.xml
+C:\scriptApproval.xml
+C:\Program Files\Jenkins\.ssh\id_rsa
+C:\Program Files\Jenkins\.ssh\id_rsa.pub
+C:\Program Files\Jenkins\.ssh\known_hosts
+C:\jenkins\.ssh\id_rsa
+C:\jenkins\.ssh\id_rsa.pub
+C:\Jenkins\.ssh\known_hosts
+C:\Users\Administrator\.ssh\id_rsa
+C:\Users\Administrator\.ssh\id_rsa.pub
+C:\Users\jenkins\.ssh\id_rsa
+C:\Users\jenkins\.ssh\known_hosts
+C:\temp\id_rsa
+C:\id_rsa
+C:\Program Files\Jenkins\secrets\apiToken
+C:\Program Files\Jenkins\secrets\github-token
+C:\Program Files\Jenkins\secrets\gitlab-token
+C:\Program Files\Jenkins\secrets\aws-credentials
+C:\Program Files\Jenkins\secrets\azure-credentials
+C:\jenkins\secrets\github-token
+C:\jenkins\secrets\aws-credentials
+C:\Jenkins\secrets\apiToken
+C:\.jenkins\secrets\gitlab-token
+C:\jenkins_home\secrets\github-token
+C:\Program Files\Jenkins\secrets\kubernetes-config
+C:\Program Files\Jenkins\secrets\kubeconfig
+C:\jenkins\secrets\kubeconfig
+C:\Jenkins\secrets\kubeconfig
+C:\Users\Administrator\.kube\config
+C:\temp\kubeconfig
+C:\kubeconfig
+C:\Program Files\Jenkins\.env
+C:\Program Files\Jenkins\jobs\build\.env
+C:\Program Files\Jenkins\workspace\build\.env
+C:\jenkins\.env
+C:\jenkins\jobs\deploy\.env
+C:\jenkins\workspace\test\.env
+C:\Jenkins\.env
+C:\.jenkins\.env
+C:\jenkins_home\.env
+C:\temp\.env
+C:\tmp\.env
+C:\Users\Administrator\.env
+C:\.env
+D:\.env
+C:\Program Files\Jenkins\plugins.txt
+C:\Program Files\Jenkins\installed-plugins.txt
+C:\jenkins\plugins.txt
+C:\Jenkins\plugins.txt
+C:\.jenkins\plugins.txt
+C:\jenkins_home\plugins.txt
+C:\plugins.txt
+C:\Program Files\Jenkins\jenkins.war
+C:\Program Files\Jenkins\jenkins.war.bak
+C:\Program Files\Jenkins\war\jenkins.war
+C:\jenkins\jenkins.war
+C:\Jenkins\jenkins.war
+C:\jenkins_home\jenkins.war
+C:\temp\jenkins.war
+C:\tmp\jenkins.war
+C:\jenkins.war
+C:\Program Files\Jenkins\jenkins-cli.jar
+C:\Program Files\Jenkins\war\WEB-INF\jenkins-cli.jar
+C:\jenkins\jenkins-cli.jar
+C:\Jenkins\jenkins-cli.jar
+C:\jenkins_home\jenkins-cli.jar
+C:\temp\jenkins-cli.jar
+C:\jenkins-cli.jar
+C:\Program Files\Jenkins\slave.jar
+C:\Program Files\Jenkins\agent.jar
+C:\Program Files\Jenkins\remoting.jar
+C:\jenkins\slave.jar
+C:\jenkins\agent.jar
+C:\Jenkins\remoting.jar
+C:\jenkins_home\slave.jar
+C:\temp\slave.jar
+C:\slave.jar
+C:\agent.jar
+C:\Program Files\Jenkins\update-center.json
+C:\Program Files\Jenkins\updates\default.json
+C:\jenkins\update-center.json
+C:\Jenkins\update-center.json
+C:\.jenkins\update-center.json
+C:\jenkins_home\update-center.json
+C:\update-center.json
+C:\Program Files\Jenkins\proxy.xml
+C:\Program Files\Jenkins\computer.xml
+C:\Program Files\Jenkins\node.xml
+C:\jenkins\proxy.xml
+C:\jenkins\computer.xml
+C:\Jenkins\node.xml
+C:\proxy.xml
+C:\computer.xml
+C:\Program Files\Jenkins\builds\1\log
+C:\Program Files\Jenkins\builds\1\build.xml
+C:\Program Files\Jenkins\builds\lastStable
+C:\Program Files\Jenkins\builds\lastSuccessful
+C:\jenkins\builds\1\log
+C:\jenkins\builds\lastFailure
+C:\Jenkins\builds\1\build.xml
+C:\jenkins_home\builds\1\log
+C:\Program Files\Jenkins\workspace\build\pom.xml
+C:\Program Files\Jenkins\workspace\build\build.xml
+C:\Program Files\Jenkins\workspace\build\build.gradle
+C:\Program Files\Jenkins\workspace\build\settings.xml
+C:\jenkins\workspace\build\pom.xml
+C:\jenkins\workspace\deploy\build.gradle
+C:\Jenkins\workspace\test\build.xml
+C:\jenkins_home\workspace\build\settings.xml
+C:\Program Files\Jenkins\fingerprints\fingerprint.xml
+C:\jenkins\fingerprints\fingerprint.xml
+C:\Jenkins\fingerprints\fingerprint.xml
+C:\jenkins_home\fingerprints\fingerprint.xml
+C:\Program Files\Jenkins\.gitignore
+C:\Program Files\Jenkins\.git\config
+C:\jenkins\.gitignore
+C:\jenkins\.git\config
+C:\Jenkins\.git\config
+C:\.jenkins\.git\config
+C:\jenkins_home\.git\config
+C:\Program Files\Jenkins\docker-compose.yml
+C:\Program Files\Jenkins\Dockerfile
+C:\jenkins\docker-compose.yml
+C:\jenkins\Dockerfile
+C:\Jenkins\docker-compose.yml
+C:\jenkins_home\docker-compose.yml
+C:\docker-compose.yml
+C:\Dockerfile
+C:\Program Files\Jenkins\README.md
+C:\Program Files\Jenkins\LICENSE
+C:\jenkins\README.md
+C:\Jenkins\README.md
+C:\jenkins_home\README.md
+C:\README.md
+C:\LICENSE
+C:\backup\jenkins-backup.zip
+C:\backup\jenkins.zip
+C:\backup\jenkins\jenkins-backup.zip
+C:\backups\jenkins-backup.zip
+C:\temp\jenkins-backup.zip
+C:\tmp\jenkins-backup.zip
+C:\Users\Administrator\Documents\jenkins-backup.zip
+C:\jenkins-backup.zip
+C:\backup.zip
+D:\backup\jenkins-backup.zip
+C:\Program Files\Jenkins\jobs.zip
+C:\Program Files\Jenkins\workspace.zip
+C:\jenkins\jobs.zip
+C:\jenkins\workspace.zip
+C:\Jenkins\jobs.zip
+C:\temp\jobs.zip
+C:\jobs.zip
+C:\Program Files\Jenkins\secrets.properties
+C:\Program Files\Jenkins\credentials.properties
+C:\jenkins\secrets.properties
+C:\jenkins\credentials.properties
+C:\Jenkins\secrets.properties
+C:\.jenkins\credentials.properties
+C:\secrets.properties
+C:\credentials.properties
+C:\Program Files\Jenkins\workspace\build\test-results.xml
+C:\Program Files\Jenkins\workspace\build\junit.xml
+C:\Program Files\Jenkins\workspace\build\coverage.xml
+C:\Program Files\Jenkins\workspace\build\sonar-report.xml
+C:\jenkins\workspace\test\test-results.xml
+C:\Jenkins\workspace\build\junit.xml
+C:\temp\test-results.xml
+C:\test-results.xml
+C:\Program Files\Jenkins\workspace\build\target\artifact.jar
+C:\Program Files\Jenkins\workspace\build\dist\release.zip
+C:\Program Files\Jenkins\workspace\build\build-artifacts\deployment-package.zip
+C:\jenkins\workspace\deploy\artifact.zip
+C:\Jenkins\workspace\build\release.zip
+C:\temp\artifact.zip
+C:\artifact.zip
+C:\Program Files\Jenkins\workspace\build\console.log
+C:\Program Files\Jenkins\workspace\build\build.log
+C:\Program Files\Jenkins\workspace\deploy\deployment.log
+C:\jenkins\workspace\test\test-output.log
+C:\Jenkins\workspace\build\console.log
+C:\console.log
+C:\build.log
+C:\deployment.log
+C:\Program Files\Jenkins\jobs\build\nextBuildNumber
+C:\Program Files\Jenkins\jobs\build\builds\1\changelog.xml
+C:\jenkins\jobs\deploy\nextBuildNumber
+C:\Jenkins\jobs\test\builds\1\changelog.xml
+C:\nextBuildNumber
+C:\changelog.xml
+C:\Program Files\Jenkins\jenkins.exe
+C:\Program Files\Jenkins\jenkins.xml
+C:\Program Files\Jenkins\jenkins-service.exe
+C:\jenkins\jenkins.exe
+C:\Jenkins\jenkins.exe
+C:\jenkins.exe
+C:\Program Files\Jenkins\jenkins.bat
+C:\Program Files\Jenkins\jenkins.cmd
+C:\Program Files\Jenkins\start-jenkins.bat
+C:\Program Files\Jenkins\stop-jenkins.bat
+C:\jenkins\start-jenkins.bat
+C:\jenkins\jenkins.bat
+C:\Jenkins\jenkins.cmd
+C:\start-jenkins.bat
+C:\jenkins.bat
+C:\Program Files\Jenkins\jenkins.ps1
+C:\Program Files\Jenkins\install-jenkins.ps1
+C:\jenkins\jenkins.ps1
+C:\Jenkins\backup-jenkins.ps1
+C:\jenkins.ps1

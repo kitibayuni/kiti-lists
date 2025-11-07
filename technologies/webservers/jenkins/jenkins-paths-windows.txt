@@ -1,0 +1,85 @@
+C:\Program Files\Jenkins\
+C:\Program Files\Jenkins\jobs\
+C:\Program Files\Jenkins\workspace\
+C:\Program Files\Jenkins\plugins\
+C:\Program Files\Jenkins\users\
+C:\Program Files\Jenkins\secrets\
+C:\Program Files\Jenkins\war\
+C:\Program Files\Jenkins\logs\
+C:\Program Files (x86)\Jenkins\
+C:\Program Files (x86)\Jenkins\jobs\
+C:\Program Files (x86)\Jenkins\workspace\
+C:\jenkins\
+C:\jenkins\jobs\
+C:\jenkins\workspace\
+C:\jenkins\builds\
+C:\jenkins\plugins\
+C:\jenkins\users\
+C:\jenkins\secrets\
+C:\jenkins\war\
+C:\jenkins\logs\
+C:\jenkins\config-history\
+C:\jenkins\fingerprints\
+C:\jenkins\init.groovy.d\
+C:\jenkins\.ssh\
+C:\jenkins\nodes\
+C:\jenkins\caches\
+C:\jenkins\tools\
+C:\Jenkins\
+C:\Jenkins\jobs\
+C:\Jenkins\workspace\
+C:\.jenkins\
+C:\.jenkins\jobs\
+C:\.jenkins\workspace\
+C:\.jenkins\secrets\
+C:\Users\Administrator\.jenkins\
+C:\Users\Administrator\.jenkins\jobs\
+C:\Users\Administrator\.jenkins\workspace\
+C:\Users\Administrator\.ssh\
+C:\Users\jenkins\.jenkins\
+C:\Users\jenkins\.ssh\
+C:\Users\jenkins\workspace\
+C:\Users\Public\.jenkins\
+C:\ProgramData\Jenkins\
+C:\ProgramData\Jenkins\jobs\
+C:\ProgramData\Jenkins\workspace\
+C:\Windows\System32\config\systemprofile\.jenkins\
+C:\var\lib\jenkins\
+C:\var\jenkins_home\
+C:\opt\jenkins\
+C:\data\jenkins\
+C:\app\jenkins\
+C:\jenkins_home\
+C:\jenkins_home\jobs\
+C:\jenkins_home\workspace\
+C:\jenkins_home\plugins\
+C:\jenkins_home\secrets\
+C:\inetpub\wwwroot\jenkins\
+C:\www\jenkins\
+C:\webapps\jenkins\
+C:\tomcat\webapps\jenkins\
+C:\apache-tomcat\webapps\jenkins\
+C:\bitnami\jenkins\
+C:\backup\
+C:\backup\jenkins\
+C:\backups\
+C:\backups\jenkins\
+C:\temp\
+C:\temp\jenkins\
+C:\tmp\
+C:\tmp\jenkins\
+C:\Windows\temp\
+C:\Users\Administrator\Documents\
+C:\Users\Administrator\Desktop\
+D:\jenkins\
+D:\jenkins\jobs\
+D:\jenkins\workspace\
+D:\data\jenkins\
+D:\backup\
+D:\backup\jenkins\
+E:\jenkins\
+E:\data\jenkins\
+E:\backup\
+C:\
+D:\
+E:\
