@@ -1,0 +1,481 @@
+expect://id
+expect://whoami
+expect://hostname
+expect://pwd
+expect://date
+expect://uptime
+expect://uname
+expect://uname -a
+expect://uname -r
+expect://uname -n
+expect://uname -m
+expect://uname -s
+expect://echo test
+expect://echo hello
+expect://printf test
+expect://printf hello
+expect://echo $USER
+expect://echo $HOME
+expect://echo $PATH
+expect://echo $SHELL
+expect://echo $TERM
+expect://echo $LANG
+expect://printenv
+expect://printenv USER
+expect://printenv HOME
+expect://printenv PATH
+expect://printenv SHELL
+expect://printenv HOSTNAME
+expect://printenv PWD
+expect://env
+expect://env | grep USER
+expect://env | grep HOME
+expect://env | grep PATH
+expect://env | grep SHELL
+expect://set
+expect://export
+expect://declare
+expect://which ls
+expect://which cat
+expect://which bash
+expect://which sh
+expect://which python
+expect://which perl
+expect://which php
+expect://which ruby
+expect://which node
+expect://which java
+expect://which gcc
+expect://which make
+expect://whereis bash
+expect://whereis python
+expect://whereis perl
+expect://type ls
+expect://type cat
+expect://command -v bash
+expect://command -v python
+expect://ls
+expect://ls -l
+expect://ls -la
+expect://ls -lh
+expect://ls -lah
+expect://ls -a
+expect://ls -R
+expect://ls /tmp
+expect://ls /var
+expect://ls /opt
+expect://ls /usr
+expect://ls /home
+expect://ls /root
+expect://ls -la /tmp
+expect://ls -la /var
+expect://dir
+expect://dir /tmp
+expect://tree
+expect://tree /tmp
+expect://find /tmp -type f
+expect://find /var -type f
+expect://find . -name "*.txt"
+expect://find . -name "*.log"
+expect://find . -name "*.conf"
+expect://find . -name "*.php"
+expect://cat /proc/version
+expect://cat /proc/cpuinfo
+expect://cat /proc/meminfo
+expect://cat /etc/issue
+expect://cat /etc/os-release
+expect://cat /etc/lsb-release
+expect://cat /etc/debian_version
+expect://cat /etc/redhat-release
+expect://cat /etc/hostname
+expect://cat /proc/sys/kernel/hostname
+expect://cat /proc/cmdline
+expect://cat /proc/self/environ
+expect://cat /proc/self/status
+expect://cat /proc/self/cmdline
+expect://cat /proc/self/maps
+expect://head /proc/version
+expect://head /etc/issue
+expect://head /etc/os-release
+expect://tail /proc/version
+expect://tail /etc/issue
+expect://more /proc/version
+expect://less /proc/version
+expect://ps
+expect://ps aux
+expect://ps -ef
+expect://ps -A
+expect://ps -e
+expect://ps -u
+expect://top -bn1
+expect://top -n 1
+expect://htop
+expect://w
+expect://who
+expect://users
+expect://last
+expect://lastlog
+expect://lastb
+expect://finger
+expect://uptime -p
+expect://uptime -s
+expect://df
+expect://df -h
+expect://df -k
+expect://du
+expect://du -sh
+expect://du -h
+expect://free
+expect://free -h
+expect://free -m
+expect://vmstat
+expect://iostat
+expect://mpstat
+expect://sar
+expect://ifconfig
+expect://ifconfig -a
+expect://ip addr
+expect://ip a
+expect://ip link
+expect://ip route
+expect://route
+expect://route -n
+expect://netstat
+expect://netstat -a
+expect://netstat -an
+expect://netstat -tulpn
+expect://netstat -rn
+expect://ss
+expect://ss -a
+expect://ss -tulpn
+expect://ss -s
+expect://arp
+expect://arp -a
+expect://arp -n
+expect://hostname -f
+expect://hostname -i
+expect://hostname -I
+expect://hostname -s
+expect://hostname -d
+expect://domainname
+expect://dnsdomainname
+expect://nisdomainname
+expect://ypdomainname
+expect://nslookup localhost
+expect://dig localhost
+expect://host localhost
+expect://ping -c 1 localhost
+expect://ping -c 2 127.0.0.1
+expect://traceroute localhost
+expect://tracepath localhost
+expect://mtr localhost
+expect://nc -zv localhost 80
+expect://telnet localhost 80
+expect://curl -I localhost
+expect://wget -S localhost
+expect://lynx -dump localhost
+expect://links -dump localhost
+expect://lsof
+expect://lsof -i
+expect://lsof -n
+expect://fuser -v .
+expect://mount
+expect://mount -l
+expect://findmnt
+expect://blkid
+expect://lsblk
+expect://fdisk -l
+expect://parted -l
+expect://pvs
+expect://vgs
+expect://lvs
+expect://dmsetup ls
+expect://cat /proc/mounts
+expect://cat /proc/filesystems
+expect://cat /proc/partitions
+expect://cat /proc/swaps
+expect://swapon -s
+expect://crontab -l
+expect://crontab -u root -l
+expect://at -l
+expect://atq
+expect://systemctl
+expect://systemctl list-units
+expect://systemctl status
+expect://service --status-all
+expect://chkconfig --list
+expect://rc-status
+expect://journalctl -n 10
+expect://journalctl -xe
+expect://dmesg
+expect://dmesg | tail
+expect://dmidecode
+expect://lshw
+expect://lscpu
+expect://lspci
+expect://lsusb
+expect://lsmod
+expect://modprobe -l
+expect://depmod -a
+expect://udevadm info
+expect://printenv DISPLAY
+expect://printenv DESKTOP_SESSION
+expect://groups
+expect://id -G
+expect://id -u
+expect://id -g
+expect://id -un
+expect://id -gn
+expect://getent passwd
+expect://getent group
+expect://getent hosts
+expect://getent services
+expect://compgen -c
+expect://compgen -a
+expect://compgen -b
+expect://compgen -k
+expect://history
+expect://fc -l
+expect://locale
+expect://locale -a
+expect://timedatectl
+expect://date +%Y-%m-%d
+expect://date +%H:%M:%S
+expect://cal
+expect://ncal
+expect://time date
+expect://timeout 1 date
+expect://sleep 0
+expect://true
+expect://false
+expect://yes | head -1
+expect://seq 1 5
+expect://seq 10
+expect://echo -n test
+expect://echo -e "test\ntest"
+expect://printf "%s\n" test
+expect://stat /tmp
+expect://stat /etc
+expect://file /bin/ls
+expect://file /etc/passwd
+expect://strings /bin/ls | head
+expect://hexdump -C /proc/version | head
+expect://od -c /proc/version | head
+expect://xxd /proc/version | head
+expect://md5sum /proc/version
+expect://sha1sum /proc/version
+expect://sha256sum /proc/version
+expect://sha512sum /proc/version
+expect://cksum /proc/version
+expect://sum /proc/version
+expect://wc /proc/version
+expect://wc -l /proc/version
+expect://wc -w /proc/version
+expect://wc -c /proc/version
+expect://nl /proc/version
+expect://grep -c "." /proc/version
+expect://grep -n "Linux" /proc/version
+expect://egrep "Linux" /proc/version
+expect://fgrep "Linux" /proc/version
+expect://cut -d: -f1 /etc/issue
+expect://awk '{print}' /proc/version
+expect://sed -n 1p /proc/version
+expect://head -1 /proc/version
+expect://tail -1 /proc/version
+expect://tac /proc/version
+expect://rev /proc/version
+expect://sort /proc/version
+expect://uniq /proc/version
+expect://tr a-z A-Z < /proc/version
+expect://fold -w 40 /proc/version
+expect://fmt /proc/version
+expect://pr /proc/version
+expect://expand /proc/version
+expect://unexpand /proc/version
+expect://id;whoami
+expect://id&&whoami
+expect://id|whoami
+expect://id||whoami
+expect://whoami;hostname
+expect://whoami&&hostname
+expect://whoami|hostname
+expect://hostname;pwd
+expect://hostname&&pwd
+expect://pwd;date
+expect://pwd&&date
+expect://uname;id
+expect://uname&&id
+expect://uname|whoami
+expect://date;uptime
+expect://date&&uptime
+expect://uptime;who
+expect://uptime&&who
+expect://id;uname -a
+expect://id&&uname -a
+expect://whoami;uname -a
+expect://whoami&&uname -a
+expect://id;hostname;pwd
+expect://id&&hostname&&pwd
+expect://whoami;hostname;date
+expect://whoami&&hostname&&date
+expect://id`whoami`
+expect://id$(whoami)
+expect://echo `whoami`
+expect://echo $(whoami)
+expect://echo `hostname`
+expect://echo $(hostname)
+expect://echo `date`
+expect://echo $(date)
+expect://echo `pwd`
+expect://echo $(pwd)
+expect://printf `id`
+expect://printf $(id)
+expect://cat%20/proc/version
+expect://cat%09/proc/version
+expect://cat</proc/version
+expect://cat${IFS}/proc/version
+expect://cat$IFS/proc/version
+expect://cat$IFS$9/proc/version
+expect://cat${IFS}${9}/proc/version
+expect://cat$IFS$1/proc/version
+expect://cat${IFS}${1}/proc/version
+expect://echo${IFS}test
+expect://echo$IFS$9test
+expect://printf${IFS}test
+expect://printf$IFS$9test
+expect://ls${IFS}-la
+expect://ls$IFS-la
+expect://ls$IFS$9-la
+expect://ls${IFS}${9}-la
+expect://{cat,/proc/version}
+expect://{ls,-la}
+expect://{echo,test}
+expect://{printf,test}
+expect://{id}
+expect://{whoami}
+expect://{hostname}
+EXPECT://id
+EXPECT://whoami
+EXPECT://hostname
+EXPECT://pwd
+EXPECT://date
+Expect://id
+Expect://whoami
+Expect://hostname
+Expect://pwd
+eXpEcT://id
+eXpEcT://whoami
+eXpEcT://hostname
+ExPeCt://id
+ExPeCt://whoami
+%65%78%70%65%63%74://id
+%65%78%70%65%63%74://whoami
+%65%78%70%65%63%74://hostname
+%65%78%70%65%63%74://pwd
+%65%78%70%65%63%74://date
+expect%3A%2F%2Fid
+expect%3A%2F%2Fwhoami
+expect%3A%2F%2Fhostname
+expect%3A%2F%2Fpwd
+expect%3a%2f%2fid
+expect%3a%2f%2fwhoami
+%65xpect://id
+%65xpect://whoami
+%65xpect://hostname
+e%78pect://id
+e%78pect://whoami
+e%78pect://hostname
+ex%70ect://id
+ex%70ect://whoami
+ex%70ect://hostname
+exp%65ct://id
+exp%65ct://whoami
+exp%65ct://hostname
+expe%63t://id
+expe%63t://whoami
+expe%63t://hostname
+expec%74://id
+expec%74://whoami
+expec%74://hostname
+expect%3a//id
+expect%3a//whoami
+expect://%69d
+expect://who%61mi
+expect://hostn%61me
+expect://p%77d
+expect://d%61te
+expect://upti%6de
+expect://una%6de
+expect://ec%68o test
+expect://pr%69ntenv
+expect://e%6ev
+expect://l%73
+expect://c%61t /proc/version
+expect://he%61d /proc/version
+expect://t%61il /proc/version
+expect://p%73
+expect://w%68o
+expect://%6cs
+expect://%70s
+expect://%69d%20%26%26%20whoami
+expect://%77hoami%20%7c%20id
+expect://bash -c id
+expect://bash -c whoami
+expect://bash -c hostname
+expect://bash -c pwd
+expect://bash -c date
+expect://bash -c "echo test"
+expect://sh -c id
+expect://sh -c whoami
+expect://sh -c hostname
+expect://sh -c pwd
+expect://dash -c id
+expect://dash -c whoami
+expect://ksh -c id
+expect://ksh -c whoami
+expect://zsh -c id
+expect://zsh -c whoami
+expect://csh -c id
+expect://tcsh -c id
+expect://ash -c id
+expect://fish -c id
+expect://perl -e 'print "test\n"'
+expect://perl -e 'print $ENV{USER}'
+expect://perl -e 'print $ENV{HOME}'
+expect://perl -e 'print $ENV{PATH}'
+expect://perl -le 'print "test"'
+expect://python -c 'print("test")'
+expect://python -c 'import os; print(os.getenv("USER"))'
+expect://python -c 'import os; print(os.getenv("HOME"))'
+expect://python -c 'import os; print(os.getenv("PATH"))'
+expect://python3 -c 'print("test")'
+expect://python3 -c 'import os; print(os.getenv("USER"))'
+expect://python3 -c 'import os; print(os.getenv("HOME"))'
+expect://ruby -e 'puts "test"'
+expect://ruby -e 'puts ENV["USER"]'
+expect://ruby -e 'puts ENV["HOME"]'
+expect://ruby -e 'puts ENV["PATH"]'
+expect://php -r 'echo "test";'
+expect://php -r 'echo getenv("USER");'
+expect://php -r 'echo getenv("HOME");'
+expect://php -r 'echo getenv("PATH");'
+expect://php -r 'echo php_uname();'
+expect://php -r 'echo getcwd();'
+expect://node -e 'console.log("test")'
+expect://node -e 'console.log(process.env.USER)'
+expect://node -e 'console.log(process.env.HOME)'
+expect://node -e 'console.log(process.env.PATH)'
+expect://node -p 'process.env.USER'
+expect://node -p 'process.env.HOME'
+expect://awk 'BEGIN {print "test"}'
+expect://awk 'BEGIN {print ENVIRON["USER"]}'
+expect://awk 'BEGIN {print ENVIRON["HOME"]}'
+expect://awk 'BEGIN {print ENVIRON["PATH"]}'
+expect://sed -n 1p /proc/version
+expect://sed '1q' /proc/version
+expect://cut -f1 /proc/version
+expect://grep . /proc/version
+expect://tee < /proc/version
+expect://xargs echo < /proc/version
+expect://read a < /proc/version; echo $a
+expect://mapfile -t < /proc/version; echo ${MAPFILE[0]}
